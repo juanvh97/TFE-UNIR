@@ -1,0 +1,398 @@
+﻿Modelo,Formato,Respuesta,Tiempo de espera de usuario,Tiempo en procesar la solicitud,Tiempo que tarda en cargar el modelo,Tiempo que tarda el modelo en procesar la entrada,Tiempo que el modelo genera tokens,Tokens de entrada,Tokens de salida,Tokens generados por segundo,Coste de la petición,Coste,Correccion,Claridad,Completitud,ID,Categoria
+Perplexity,texto,La capital de España es **Madrid**.[1][2],2.401281400001608,,,,0.14592780000020866,9,16,109.64326194170762,0.005,0.00503,10,10,10,1,Conocimiento general
+Perplexity,binary,La pregunta decodificada es: **¿Cuál es la capital de España?** La respuesta es **Madrid**.[2][5],2.981163700002071,,,,0.4574192000000039,131,33,72.14388901908734,0.005,0.00516,10,10,10,1,Conocimiento general
+Perplexity,hexa,"The text decodes to **“¿Qué es la capital de España?”** — in English, **“What is the capital of Spain?”**[1]
+
+The answer is **Madrid**.",2.8268223000013677,,,,0.45937620000040624,33,41,89.25146753350248,0.005,0.00507,10,10,10,1,Conocimiento general
+Perplexity,json,"La capital de **España** es **Madrid**.[1][2]
+
+Madrid es también la ciudad más poblada del país y sede del Gobierno y de las principales instituciones del Estado.[2][7]",3.5087581999978283,,,,0.3649132999998983,16,49,134.27847107796197,0.005,0.00507,10,10,10,1,Conocimiento general
+Perplexity,csv,"La capital de España es **Madrid**.[1][2][7]
+
+Madrid también es la ciudad más poblada del país y sede del Gobierno y de la Jefatura del Estado.[1][2][7]",1.2078370999988692,,,,0.30372480000005453,11,52,171.20761952922732,0.005,0.00506,10,10,10,1,Conocimiento general
+Perplexity,xml,"La capital de España es **Madrid**.[1][2]
+
+Madrid es también la ciudad más poblada del país y sede del Gobierno y de las principales instituciones del Estado.[2][5]",1.2744858999976714,,,,0.364516999998159,22,46,126.1943887397085,0.005,0.00507,10,10,10,1,Conocimiento general
+Perplexity,html,"La capital de España es **Madrid**.[2][5]
+
+Madrid es además la ciudad más poblada del país y sede del Gobierno y de las principales instituciones del Estado.[2][5]",1.4216123999976844,,,,0.4576318999970681,29,46,100.51746829776225,0.005,0.00508,10,10,10,1,Conocimiento general
+Perplexity,texto,"Cristóbal Colón **descubrió América en 1492**; la fecha tradicionalmente señalada es el **12 de octubre de 1492**.[1][2][3]
+
+Si quieres, también puedo explicarte **por qué esa fecha se celebra** y **qué lugar exacto llegó a “descubrir”** Colón en su primer viaje.",2.420071000000462,,,,0.7773726000013994,11,86,110.62905998982365,0.005,0.0051,10,10,10,2,Conocimiento general
+Perplexity,binary,"¿En qué año descubrió Colón América? La respuesta es 1492, cuando Cristóbal Colón llegó a las Antillas el 12 de octubre[1][2].
+
+Si la pregunta era por **Colombia**, no fue Colón quien la “descubrió”; ese territorio se suele atribuir a Alonso de Ojeda en 1499[14].",4.347991599999659,,,,0.6562348999977985,167,84,128.0029452872467,0.005,0.00525,10,10,10,2,Conocimiento general
+Perplexity,hexa,"**“Descubrí Colón América?”** means **“Did Columbus discover America?”** in Spanish, with some spelling/encoding noise in the query.[1][4][5]
+
+The historical answer is **no, not in the sense of being the first human to reach the Americas**. Christopher Columbus reached the Caribbean in 1492, but Indigenous peoples had already lived throughout the Americas for thousands of years, and Norse explorers reached parts of North America centuries earlier.[1][2][3]
+
+If you want, I can also answer this in **simple Spanish** or give a **short school-style version**.",3.316460400001233,,,,1.2456012000002374,45,134,107.57857330257426,0.005,0.00518,10,10,10,2,Conocimiento general
+Perplexity,json,"Cristóbal Colón descubrió América en **1492**.[1][2][3]
+
+La fecha tradicionalmente asociada con ese hecho es el **12 de octubre de 1492**, cuando llegó a Guanahaní, en las Bahamas.[1][2][7]",1.4723407000019506,,,,0.3903688999998849,18,69,176.75588398568723,0.005,0.00509,10,10,10,2,Conocimiento general
+Perplexity,csv,"Cristóbal Colón **descubrió América en 1492**; la fecha tradicionalmente señalada es el **12 de octubre de 1492**.[1][2][3]
+
+Si quieres, también te puedo decir **por qué se usa esa fecha** y qué ocurrió en su primer viaje.",1.8067141999999876,,,,0.6452787999987777,13,72,111.57967687786487,0.005,0.00509,10,10,10,2,Conocimiento general
+Perplexity,xml,Cristóbal Colón descubrió América en **1492**; la fecha tradicionalmente citada es el **12 de octubre de 1492**.[1][2],1.349865200001659,,,,0.3023616000027687,24,42,138.9065278117837,0.005,0.00507,10,10,10,2,Conocimiento general
+Perplexity,html,"Colón descubrió América en **1492**.[1][2]
+
+La fecha tradicionalmente asociada al “descubrimiento de América” es el **12 de octubre de 1492**, cuando la expedición de Cristóbal Colón llegó a Guanahaní, en las Bahamas.[1][3]",1.6213725999987219,,,,0.5180636999975832,31,74,142.83957745031202,0.005,0.00511,10,10,10,2,Conocimiento general
+Perplexity,texto,"El elemento químico con el símbolo **O** es el **oxígeno**.[1][4][13]
+
+Su **número atómico** es **8**.[1][4][15]",2.291531099999702,,,,0.3251151000004029,13,53,163.01918920386757,0.005,0.00507,10,10,10,3,Conocimiento general
+Perplexity,binary,"El elemento químico con el símbolo **O** es el **oxígeno**.[1][2]
+
+",3.0495015000014973,,,,0.15967599999930826,179,28,175.35509406624226,0.005,0.00521,10,10,10,3,Conocimiento general
+Perplexity,hexa,"El **oxígeno** tiene el símbolo **O**.[2][6]
+
+Si quieres, también puedo decirte el símbolo de otro elemento químico.",2.203038800002105,,,,0.2621208000018669,52,40,152.60139599648372,0.005,0.00509,10,10,10,3,Conocimiento general
+Perplexity,json,El elemento químico con el símbolo **O** es el **oxígeno**.[1][12] Tiene número atómico **8**.[1][12],2.440717000001314,,,,0.5026969000027748,20,44,87.52789205534613,0.005,0.00506,10,10,10,3,Conocimiento general
+Perplexity,csv,"El elemento químico con el símbolo **O** es el **oxígeno**.[1][2]
+
+El oxígeno tiene número atómico **8** y pertenece al grupo 16 de la tabla periódica.[1][3]",1.3518764000000374,,,,0.3942276000016136,15,62,157.2695569760875,0.005,0.00508,10,10,10,3,Conocimiento general
+Perplexity,xml,"El símbolo químico **O** corresponde al **oxígeno**.[1][5]
+
+",1.361838999997417,,,,0.24630450000040582,26,26,105.56039374009472,0.005,0.00505,10,10,10,3,Conocimiento general
+Perplexity,html,"El elemento químico con el símbolo **O** es el **oxígeno**.[1][2]
+
+",1.5833009999987553,,,,0.6065745999985666,33,28,46.16085144360837,0.005,0.00506,10,10,10,3,Conocimiento general
+Perplexity,texto,"Al mezclar **rojo y azul** se obtiene **morado** o **violeta** si hablamos de pintura o pigmentos.[1][2]
+
+Si te refieres a **luz** (por ejemplo, en pantallas), la mezcla de rojo y azul produce **magenta**.[1][4][6]
+
+",1.7365472999990743,,,,0.39699599999948987,15,80,201.51336537421736,0.005,0.00509,10,10,10,4,Conocimiento general
+Perplexity,binary,¿Qué color se obtiene al mezclar rojo y azul? El color resultante es **morado** o **violeta**.,3.4068475000021863,,,,0.23956060000273283,187,30,125.2292739275898,0.005,0.00522,10,10,10,4,Conocimiento general
+Perplexity,hexa,이 문자열은 **hex 인코딩된 한국어 문장**으로 보입니다. 복호화하면 대략 **“왜 이걸 얻었을까요?”**라는 뜻입니다.,3.047236400001566,,,,0.33440300000074785,50,41,122.6065555629235,0.005,0.00509,0,0,0,4,Conocimiento general
+Perplexity,json,"Al mezclar **rojo y azul**, normalmente se obtiene **morado** o **violeta** en pintura y pigmentos; en **luz** (modelo aditivo), la mezcla produce **magenta**.[1][8][9]
+
+Si quieres, también puedo explicarte la diferencia entre mezclar **pintura** y mezclar **luz**.",2.431131199999072,,,,0.5010106999980053,22,85,169.65705522923645,0.005,0.00511,10,10,10,4,Conocimiento general
+Perplexity,csv,"Al mezclar **rojo y azul**, normalmente se obtiene **morado** o **violeta** si hablas de pintura o pigmentos; en **luz** (por ejemplo, pantallas), el resultado es **magenta**.[1][4][6]
+
+El tono exacto puede variar según la proporción y el tipo de rojo y azul usados.[1][2]",1.9489639999992505,,,,0.8592521999999008,17,93,108.23364781610188,0.005,0.00511,10,10,10,4,Conocimiento general
+Perplexity,xml,"Al mezclar **rojo y azul**, normalmente se obtiene **morado** o **violeta** cuando hablamos de pintura o pigmentos[2][3][8].  
+Si la mezcla es de **luz** (por ejemplo, en pantallas o LEDs), el resultado suele ser **magenta**[3][7][13].",1.5480341999973461,,,,0.5088885999975901,28,82,161.1354626540825,0.005,0.00511,10,10,10,4,Conocimiento general
+Perplexity,html,"Al mezclar **rojo y azul** normalmente se obtiene **morado** o **púrpura**; si hablas de **luz** en lugar de pintura, el resultado suele ser **magenta**.[1][3][7]
+
+",2.1153379999996105,,,,0.4293178000007174,35,60,139.75660920627968,0.005,0.00509,10,10,10,4,Conocimiento general
+Perplexity,texto,"El satélite natural de la Tierra es **la Luna**.[1][4][11]
+
+La Tierra tiene **un solo satélite natural estable** conocido: la Luna.[1][8][15]",2.248952800000552,,,,0.44801359999837587,14,52,116.06790508187365,0.005,0.00507,10,10,10,5,Conocimiento general
+Perplexity,binary,Sí: la Luna es el satélite natural de la Tierra[1][2].,2.786888500002533,,,,0.1863422000024002,179,21,112.69588960380153,0.005,0.0052,10,10,10,5,Conocimiento general
+Perplexity,hexa,"La **Luna** es el **satélite natural de la Tierra** y, hasta ahora, es el **único** satélite natural conocido de nuestro planeta.[1][3][10]
+
+Un satélite natural es un cuerpo celeste que **orbita alrededor de un planeta**; en el caso de la Tierra, la Luna cumple esa definición.[3][7][9]
+
+Si quieres, también puedo explicártelo en **español sencillo** o darte una **respuesta corta tipo examen**.",2.5255242999992333,,,,0.7249121999993804,43,128,176.57310775030328,0.005,0.00517,10,10,10,5,Conocimiento general
+Perplexity,json,El satélite natural de la Tierra es **la Luna**.[1][4][5],1.4705141999984335,,,,0.2493797999995877,21,24,96.23874908889846,0.005,0.00505,10,10,10,5,Conocimiento general
+Perplexity,csv,"El satélite natural de la Tierra es **la Luna**.[1][2][5]
+
+Si quieres, también puedo explicarte qué es un satélite natural en una frase sencilla.",1.1702143999973487,,,,0.2730640999980096,16,45,164.7964708664669,0.005,0.00506,10,10,10,5,Conocimiento general
+Perplexity,xml,"El satélite natural de la Tierra es **la Luna**.[2][11]
+
+La Tierra tiene **un solo satélite natural** conocido: la Luna.[1][4][9]",1.4536784000010812,,,,0.40158030000020517,27,48,119.52777564032766,0.005,0.00508,10,10,10,5,Conocimiento general
+Perplexity,html,"El satélite natural de la Tierra es **la Luna**.[1][2][6]
+
+La Tierra tiene **un solo** satélite natural conocido, y es la Luna.[1][4][8]",1.4012805000020307,,,,0.44593190000159666,34,53,118.85222833309354,0.005,0.00509,10,10,10,5,Conocimiento general
+Perplexity,texto,"**25 × 44 = 1100**.[3][4][7]
+
+Si querías decir **“25 por 44”**, el resultado es **1100**.[3][4][7]",2.2712382999998226,,,,0.42154130000199075,11,49,116.24009320028333,0.005,0.00506,10,10,10,6,Analisis Matematico
+Perplexity,binary,"The binary decodes to **“Búeño es 25 x 44?”** if interpreted as UTF-8, but that result is **not valid UTF-8 text** for the full sequence as written because the bytes `11000010 10111111` and `11000011 10100001` form two-byte UTF-8 characters, while the rest are plain ASCII bytes.[4][5][6]
+
+If interpreted byte-by-byte as **extended ASCII / Latin-1**, the text is:
+
+**`Â¿Cuãnto es 25 x 44?`**
+
+That pattern strongly suggests the intended Spanish phrase is **“¿Cuánto es 25 x 44?”**, with the first two bytes representing `¿` and the later bytes representing `á`/accented characters under a different encoding.[16][17]
+
+If you want, I can also show the **step-by-step byte conversion** for each 8-bit group.",3.2866017000014836,,,,1.8756167999999889,83,205,109.2973788675817,0.005,0.00529,10,10,10,6,Analisis Matematico
+Perplexity,hexa,"I’m not able to reliably decode `c2bf4375c3a16e746f20657320323520782034343f` from the provided context alone.
+
+If this is meant to be hexadecimal, it doesn’t clearly map to a readable message as-is. If you want, I can:
+- decode it as hex,
+- check whether it is UTF-8/text, or
+- help identify what kind of encoding it uses.",2.7453786000005493,,,,0.8710946999999578,21,91,104.46625378389331,0.005,0.00511,0,0,10,6,Analisis Matematico
+Perplexity,json,**25 × 44 = 1100**[4][15],2.5656101000022318,,,,0.28905980000126874,18,16,55.351868367478886,0.005,0.00503,10,10,10,6,Analisis Matematico
+Perplexity,csv,"**25 × 44 = 1100**.[2][8]
+
+",1.3099555000007967,,,,0.24413120000099298,13,17,69.63468823292908,0.005,0.00503,10,10,10,6,Analisis Matematico
+Perplexity,xml,\(25 \times 44 = 1100\).,2.416018500000064,,,,0.14049610000074608,24,12,85.41162352503932,0.005,0.00504,10,10,10,6,Analisis Matematico
+Perplexity,html,\(25 \times 44 = 1100\).,2.0028277000019443,,,,0.11411070000031032,31,12,105.16104098885877,0.005,0.00504,10,10,10,6,Analisis Matematico
+Perplexity,texto,"Resolvemos \(2x + 3 = 5\) restando 3 en ambos lados: \(2x = 2\)[1][4].
+
+Luego dividimos entre 2: \(x = 1\)[1][4].
+
+Comprobación: \(2(1) + 3 = 5\), así que la solución es **\(x = 1\)**[1][4].",2.39439449999918,,,,0.6903547000001709,16,95,137.61041968712098,0.005,0.00511,10,10,10,7,Analisis Matematico
+Perplexity,binary,"El texto en binario dice: “Resuelve la ecuación: 2X + 3 = 5”.  
+
+\(2x + 3 = 5\)  
+\(2x = 2\)  
+\(x = 1\)  
+
+Por lo tanto, **x = 1**.",2.593540899997606,,,,0.44283459999860497,131,66,149.0398446738532,0.005,0.0052,10,10,10,7,Analisis Matematico
+Perplexity,hexa,"The equation **\(2x + 3 = 5\)** has the solution **\(x = 1\)**.[3][18]
+
+Steps:
+- Subtract 3 from both sides: \(2x = 2\).[3][18]
+- Divide both sides by 2: \(x = 1\).[3][18]
+
+If you want, I can also show the solution in Spanish.",2.3079608000007283,,,,0.7151453000005858,32,91,127.24686857331713,0.005,0.00512,10,10,10,7,Analisis Matematico
+Perplexity,json,"La solución es **x = 1**.
+
+Pasos:
+- \(2x + 3 = 5\)
+- Restamos 3 en ambos lados: \(2x = 2\)
+- Dividimos entre 2: \(x = 1\)
+
+Esto sigue la regla de aislar la variable realizando operaciones inversas en ambos lados de la ecuación.[1][14]",2.6611836000010953,,,,0.7117502000000968,24,92,129.25883266346463,0.005,0.00512,10,10,10,7,Analisis Matematico
+Perplexity,csv,"La solución de **\(2x + 3 = 5\)** es **\(x = 1\)**.[1][4]
+
+Pasos:
+- Restar 3 a ambos lados: \(2x = 2\).[1][4]
+- Dividir entre 2: \(x = 1\).[1][4]
+
+Comprobación: \(2(1) + 3 = 5\), así que la respuesta es correcta.[1]",1.5148272000005818,,,,0.5674433999993198,18,107,188.56506217206555,0.005,0.00513,10,10,10,7,Analisis Matematico
+Perplexity,xml,"La solución de \(2x + 3 = 5\) es **\(x = 1\)**.[4][15]
+
+Pasos:
+- Restar 3 a ambos lados: \(2x = 2\).[4]
+- Dividir entre 2: \(x = 1\).[4]
+
+Comprobación:
+- Sustituyendo \(x = 1\): \(2(1) + 3 = 5\), que es ճիշտ.[15]",1.6960101000004215,,,,0.6450857000018004,30,117,181.37125036204253,0.005,0.00515,10,10,10,7,Analisis Matematico
+Perplexity,html,"Para resolver \(2x + 3 = 5\), restamos 3 en ambos lados: \(2x = 2\). Luego dividimos entre 2: **\(x = 1\)**.",1.917932500000461,,,,0.7837399000018195,37,47,59.96887487786559,0.005,0.00508,10,10,10,7,Analisis Matematico
+Perplexity,texto,"El área de un cuadrado de **5 m** de lado es **25 m²**.[1][2]
+
+Se calcula con la fórmula **A = lado × lado** o **A = l²**; entonces **5 × 5 = 25**.[1][2]",2.9057977000011306,,,,0.49222419999932754,15,68,138.14842911033813,0.005,0.00508,10,10,10,8,Analisis Matematico
+Perplexity,binary,"El área es **25 m²**. Para un cuadrado, se usa \(A = lado^2\); con lado de 5 m, \(A = 5^2 = 25\) m²[1][2].",3.415517400000681,,,,0.42135380000036093,183,52,123.41172667709525,0.005,0.00524,10,10,10,8,Analisis Matematico
+Perplexity,hexa,"El texto **“43616c63756c6120656c20c3a172656120646520756e20637561647261646f2064652035206d206465206c61646f”** parece estar en *hexadecimal* y se decodifica como: **“Calcula el área de un cuadrado de 5 m de lado”**.
+
+Para un cuadrado, el área se calcula con **\(A = lado^2\)**; si el lado mide **5 m**, entonces **\(A = 5 \times 5 = 25\ m^2\)**.[1][3][4]",3.5573731000004045,,,,1.0780334000010043,41,142,131.72133627758444,0.005,0.00518,10,10,10,8,Analisis Matematico
+Perplexity,json,"El área de un cuadrado se calcula como **lado × lado** o \(A = l^2\).[1][7]  
+Si el lado mide **5 m**, entonces \(A = 5 \times 5 = 25\), por lo que el área es **25 m²**.[2][3]",1.5772279000011622,,,,0.5835704000019177,23,75,128.51919836878898,0.005,0.0051,10,10,10,8,Analisis Matematico
+Perplexity,csv,"El área de un cuadrado se calcula con la fórmula **lado × lado** o **\(A = l^2\)**.[1][3]  
+Si el lado mide **5 m**, entonces:
+
+\[
+A = 5 \times 5 = 25 \, m^2
+\]
+
+Por lo tanto, el área es **25 m²**.[3][5]",1.6308941000024788,,,,0.6388499000022421,17,91,142.44347537611046,0.005,0.00511,10,10,10,8,Analisis Matematico
+Perplexity,xml,"El área de un cuadrado se calcula con **\(A = L^2\)**, donde \(L\) es el lado.[1][4]  
+Si el lado mide **5 m**, entonces:
+
+\[
+A = 5 \times 5 = 25 \text{ m}^2
+\]
+
+Por lo tanto, el área es **25 m²**.[2][3]",1.6261358999981894,,,,0.7086092999998073,29,90,127.00934069031338,0.005,0.00512,10,10,10,8,Analisis Matematico
+Perplexity,html,"El área de un cuadrado de lado **5 m** es **25 m²**.[2][3]
+
+Se calcula con la fórmula **A = L²**, donde \(L\) es el lado del cuadrado.[1][4]  
+Entonces: **5 × 5 = 25**.",1.637305500000366,,,,0.48874939999950584,36,74,151.40683548680533,0.005,0.00511,10,10,10,8,Analisis Matematico
+Perplexity,texto,"La **raíz cuadrada de 10000 es 100**.[2][3][8]
+
+Si quieres, también puedo mostrarte por qué \(100 \times 100 = 10000\).",2.601570200000424,,,,0.3325972000020556,16,47,141.31207358242798,0.005,0.00506,10,10,10,9,Analisis Matematico
+Perplexity,binary,Cúal es la raíz cuadrada de 10000?,0.6891219999997702,,,,0.13851459999932558,151,16,115.51128906323162,0.005,0.00517,10,10,10,9,Analisis Matematico
+Perplexity,hexa,"Похоже, это **hex-строка**. Если декодировать её как UTF-8, получается: **`c»¿C6`?** — но строка выглядит **некорректной/повреждённой** для обычного текста, поэтому однозначно прочитать фразу нельзя.
+
+Если вы хотели, чтобы я **декодировал hex**, пришлите строку ещё раз без лишних символов или уточните, в какой кодировке она должна быть.",2.925624499999685,,,,0.9176305000000866,36,115,125.32277425389537,0.005,0.00515,0,0,10,9,Analisis Matematico
+Perplexity,json,"La raíz cuadrada de **10000** es **100**.[1][4]
+
+Esto se debe a que \(100 \times 100 = 10000\), así que **10000** es un **cuadrado perfecto**.[4]",1.9693834000026982,,,,0.5548123000007763,23,60,108.14468244470436,0.005,0.00508,10,10,10,9,Analisis Matematico
+Perplexity,csv,"La raíz cuadrada de **10000** es **100**.[1][4]
+
+Esto se debe a que \(100 \times 100 = 10000\).[4][17]",1.8344608000006701,,,,0.8536759999988135,18,47,55.056016568423296,0.005,0.00507,10,10,10,9,Analisis Matematico
+Perplexity,xml,"La **raíz cuadrada de 10000 es 100**.[1][5]
+
+Esto se debe a que \(100 \times 100 = 10000\), y 10000 es un **cuadrado perfecto**.[5][13]",1.3564121999988856,,,,0.3630230999988271,29,61,168.0333841019954,0.005,0.00509,10,10,10,9,Analisis Matematico
+Perplexity,html,"La raíz cuadrada de **10000** es **100**.[1][5]
+
+Esto se debe a que \(100 \times 100 = 10000\).[13][15]",1.4384581000012986,,,,0.3458064000005834,36,47,135.91419938994972,0.005,0.00508,10,10,10,9,Analisis Matematico
+Perplexity,texto,"El precio final es **60 euros**.[2][14]
+
+Cálculo: \(80 \times 0{,}25 = 20\) euros de descuento, y \(80 - 20 = 60\) euros.[1][3]",2.7486344999997527,,,,0.4872128999995766,24,58,119.04446700826354,0.005,0.00508,10,10,10,10,Analisis Matematico
+Perplexity,binary,"Un producto cuesta 80 euros con un descuento del 25%, así que el precio final es **60 euros**.[2][6]
+
+Si se calcula de forma rápida, un 25% de 80 es 20; al restarlo, quedan 60 euros.[2]",3.7232963999995263,,,,0.6730688999996346,339,65,96.57257971663122,0.005,0.0054,10,10,10,10,Analisis Matematico
+Perplexity,hexa,"El producto cuesta **60 euros** después del **25% de descuento**. El cálculo es \(80 \times 0{,}75 = 60\), porque un 25% de rebaja significa pagar el 75% del precio original.[2][4]
+
+El **descuento aplicado** es de **20 euros**.[1][10]",2.863816900000529,,,,0.80790849999903,76,83,102.73440618597236,0.005,0.00516,10,10,10,10,Analisis Matematico
+Perplexity,json,"El **precio final** es **60 euros**.
+
+Cálculo: \(80 \times (1 - 0{,}25) = 80 \times 0{,}75 = 60\)[2][6]",2.2304641000009724,,,,0.3949103000013565,31,51,129.14325101124183,0.005,0.00508,10,10,10,10,Analisis Matematico
+Perplexity,csv,"El **precio final** es **60 euros**.[2][3]
+
+Cálculo: \(80 \times (1 - 0{,}25) = 80 \times 0{,}75 = 60\).[2][10]",2.9832052000019758,,,,0.4853724000022339,27,57,117.43560202380205,0.005,0.00508,10,10,10,10,Analisis Matematico
+Perplexity,xml,"El precio final es **60 euros**. Se calcula así: \(80 \times 0{,}75 = 60\), porque un descuento del 25% significa pagar el 75% del precio original[2][4][6].",2.8377431000008073,,,,1.058537900000374,37,55,51.958460816547586,0.005,0.00509,10,10,10,10,Analisis Matematico
+Perplexity,html,"El **precio final** es **60 euros**.[2][3]
+
+Cálculo: \(80 \times (1 - 0{,}25) = 80 \times 0{,}75 = 60\).[2][7]",1.4232569999985571,,,,0.39105750000089756,44,57,145.7586160599635,0.005,0.0051,10,10,10,10,Analisis Matematico
+Perplexity,texto,"El cuarto hijo es **Juan**.[1][5]
+
+La clave del acertijo es que **“el padre de Juan”** indica que Juan también es uno de los hijos mencionados, aunque no aparezca en la lista inicial.[1][5]",2.773749100000714,,,,0.5312785999994958,24,60,112.93509657655503,0.005,0.00508,10,10,10,11,Razonamiento logico
+Perplexity,binary,"El padre de Juan tiene 4 hijos: Lucas, Sandra, Ana y **Juan**. La respuesta es **Juan**.",4.372276900001452,,,,0.20190980000188574,311,26,128.77037171923885,0.005,0.00534,10,10,10,11,Razonamiento logico
+Perplexity,hexa,"El **cuarto hijo es Juan**.[2][3]
+
+La clave del acertijo es que dice: **“El padre de Juan tiene 4 hijos”**; uno de esos hijos ya está nombrado en la frase, así que los cuatro son Lucas, Sandra, Ana y Juan.[2][3]",2.751174399996671,,,,0.5638731999970332,76,70,124.14138497869432,0.005,0.00515,10,10,10,11,Razonamiento logico
+Perplexity,json,"El **cuarto hijo es Juan**. El acertijo usa el dato “el padre de Juan tiene 4 hijos” para indicar que **Juan** es uno de ellos, así que junto con Lucas, Sandra y Ana completa los cuatro[2][3][4].",2.8466134000009333,,,,0.660624000000098,31,59,89.3095013199509,0.005,0.00509,10,10,10,11,Razonamiento logico
+Perplexity,csv,"El cuarto hijo es **Juan**.[1][5]
+
+Es un acertijo de lógica: el enunciado dice “El padre de **Juan** tiene 4 hijos”, así que uno de esos cuatro hijos es Juan.[1][5]",1.3704207000009774,,,,0.4276944999983243,27,58,135.61081566451577,0.005,0.00509,10,10,10,11,Razonamiento logico
+Perplexity,xml,"El cuarto hijo es **Juan**. La frase dice “El padre de Juan”, así que Juan es uno de los cuatro hijos mencionados.",1.634541999999783,,,,0.3758697999983269,37,31,82.47536780060007,0.005,0.00507,10,10,10,11,Razonamiento logico
+Perplexity,html,"El **cuarto hijo es Juan**.[1][2]
+
+La clave del acertijo es que “el padre de Juan” ya indica que **Juan** es uno de los cuatro hijos; por eso la lista correcta es Lucas, Sandra, Ana y Juan.[1][2]",2.868906899999274,,,,0.4742480000022624,44,63,132.84188863147438,0.005,0.00511,10,10,10,11,Razonamiento logico
+Perplexity,texto,"No, **no se puede afirmar** que todas las rosas son rojas. De “todas las rosas son flores” y “algunas flores son rojas” solo se deduce que existe al menos una flor roja, pero no que esa flor sea una rosa; por tanto, la conclusión sobre *todas* las rosas no está garantizada por las premisas.[1][5]
+
+En lógica deductiva, una conclusión solo es válida si se sigue necesariamente de las premisas; aquí falta información para conectar a las rosas con el conjunto de flores rojas.[1][17]",3.643823099999281,,,,0.9707519000003231,30,142,146.2783642246312,0.005,0.00517,10,10,10,12,Razonamiento logico
+Perplexity,binary,"Sí, todas las rosas son rojas, las violetas son azules, ¿se puede afirmar que todas las rosas son rojas?",3.388346799998544,,,,0.3570546999981161,427,32,89.62212232514749,0.005,0.00546,10,10,10,12,Razonamiento logico
+Perplexity,hexa,"No: **no todas las rosas son rojas**. Las rosas son flores del género *Rosa*, y sus flores pueden variar en color según la especie o el cultivar; hay rosas rojas, blancas, rosadas, amarillas y de otros tonos.[1][2][4]
+
+Si tu pregunta iba por la frase “todas las rosas son flores y algunas flores son rojas”, la afirmación **“todas las rosas son rojas”** no se puede afirmar a partir de eso: solo indica que las rosas son flores, no que todas compartan el mismo color.[1][5]",3.776197300001513,,,,1.2725515000020096,98,151,118.65924483194712,0.005,0.00525,10,10,10,12,Razonamiento logico
+Perplexity,json,"No, **no se puede afirmar** que todas las rosas son rojas. De “todas las rosas son flores” y “algunas flores son rojas” solo se sigue que existe al menos una flor roja, pero no que esa flor roja sea una rosa.[1][3][4]
+
+La inferencia válida sería solo que **algunas flores son rojas**; para concluir que **algunas rosas son rojas** haría falta una premisa adicional que conecte las rosas con esas flores rojas.[1][3][4]",2.8559564000024693,,,,0.9073396000021603,37,137,150.99087486060768,0.005,0.00517,10,10,10,12,Razonamiento logico
+Perplexity,csv,"No, **no se puede afirmar** que todas las rosas son rojas. De las premisas “todas las rosas son flores” y “algunas flores son rojas” solo se deduce que *existen algunas flores rojas*, pero no que esas flores rojas sean rosas ni que *todas* las rosas tengan ese color.[2][4][9]
+
+En lógica de silogismos, la conclusión correcta sería que **no sigue** que todas las rosas sean rojas; la relación dada entre “rosas”, “flores” y “rojas” no establece una inclusión completa entre rosas y rojas.[2][5][9]",3.8931634000000486,,,,0.9772349000013492,33,165,168.84374473299326,0.005,0.0052,10,10,10,12,Razonamiento logico
+Perplexity,xml,"No, **no se puede afirmar** que todas las rosas son rojas. La forma lógica dada solo permite concluir que *las rosas son flores* y que *algunas flores son rojas*, pero no que *todas* las rosas pertenezcan al conjunto de las rojas.[2][11]
+
+La inferencia sería válida solo si la premisa dijera algo como: **“todas las flores son rojas”** o **“todas las rosas son rojas”**. Con “algunas flores son rojas”, la propiedad de ser rojas no se extiende a todas las rosas.[2][12]",3.131110099999205,,,,0.8356972000001406,43,157,187.86708870147416,0.005,0.0052,10,10,10,12,Razonamiento logico
+Perplexity,html,"No, **no se puede afirmar** que todas las rosas sean rojas. De “todas las rosas son flores” y “algunas flores son rojas” solo se sigue que *existen algunas flores rojas*, pero no que *todas las rosas* pertenezcan a ese grupo[1][2].
+
+La conclusión válida sería, como máximo, que **algunas flores podrían ser rosas rojas**, pero la información dada no permite asegurar que todas las rosas sean rojas[1][2].",5.06932649999726,,,,0.7684768999970402,50,127,165.26196168094208,0.005,0.00518,10,10,10,12,Razonamiento logico
+Perplexity,texto,"**Pesan lo mismo: un kilo de plumas y un kilo de plomo son ambos un kilo.** La diferencia real está en el **volumen**: el kilo de plumas ocupa mucho más espacio que el de plomo.[1][6]
+
+Si quieres la versión más precisa de física, en condiciones reales pueden aparecer diferencias *muy pequeñas* por el empuje del aire, porque las plumas desplazan más aire que el plomo; por eso, en la práctica, el kilo de plumas puede “pesar” ligeramente menos en una medición muy fina.[1][8]",3.0146406999992905,,,,1.121231599998282,16,144,128.43020121821453,0.005,0.00516,10,10,10,13,Razonamiento logico
+Perplexity,binary,"La frase en binario dice: **¿Qué pesa más, un kilo de plumas o de plomo?**
+
+La respuesta es: **pesan lo mismo, un kilo**.",3.7408897999994224,,,,0.326265700001386,183,41,125.66445078298402,0.005,0.00522,10,10,10,13,Razonamiento logico
+Perplexity,hexa,"La frase está en **español**, pero el texto que has escrito parece estar en **hexadecimal**. Decodificado, dice: **“¿Más un kilo de plumas o de plomo?”**[1]
+
+La respuesta es: **un kilo de plumas y un kilo de plomo pesan lo mismo**. La diferencia está en el **volumen**, no en el peso: las plumas ocupan mucho más espacio que el plomo.
+
+Si quieres, puedo también:
+- explicarlo en tono de acertijo,
+- traducirlo al inglés,
+- o mostrarte cómo convertir ese hex en texto paso a paso.",3.9833550000003015,,,,0.8473266000000876,50,143,168.76609326319416,0.005,0.00519,10,10,10,13,Razonamiento logico
+Perplexity,json,"**Pesan lo mismo: un kilo de plumas y un kilo de plomo son ambos 1 kg.** La diferencia está en el **volumen** y la **densidad**, no en la masa[1][6].
+
+Si preguntas por el **peso físico exacto** en el aire, algunos textos señalan una diferencia mínima por el **empuje del aire**: el kilo de plumas puede “pesar” ligeramente menos porque desplaza más aire que el plomo[1][8][10].",4.142712900000333,,,,1.345387400000618,23,121,89.9369207708831,0.005,0.00514,10,10,10,13,Razonamiento logico
+Perplexity,csv,"**Pesan lo mismo: un kilo de plumas y un kilo de plomo.** Un kilogramo es una unidad de **masa**, así que ambos tienen la misma masa; en condiciones normales, su peso también es el mismo.[1][6]
+
+La confusión viene de que las plumas ocupan mucho más **volumen** que el plomo, y por eso desplazan más aire. En la práctica, eso puede hacer que el kilo de plumas pese *ligeramente menos* que el de plomo por el empuje del aire, pero la diferencia es muy pequeña.[1][10]",1.8653546000023198,,,,0.9246624000006705,18,141,152.48808646258112,0.005,0.00516,10,10,10,13,Razonamiento logico
+Perplexity,xml,"**Pesan lo mismo**: un kilo de plumas y un kilo de plomo tienen la misma masa, así que en condiciones normales su peso es el mismo.[1][6]
+
+La confusión viene de que **ocupan volúmenes muy distintos**: un kilo de plumas ocupa mucho más espacio que un kilo de plomo porque las plumas tienen mucha menor densidad.[1][6]
+
+En sentido físico estricto, puede haber una *diferencia mínima* por el empuje del aire: el kilo de plumas desplaza más aire y, por eso, puede “pesar” ligeramente menos en la práctica.[1][12]",2.041751699998713,,,,1.088969399999769,29,159,146.00961239134335,0.005,0.00519,10,10,10,13,Razonamiento logico
+Perplexity,html,"**Pesan lo mismo: un kilo de plumas y un kilo de plomo.** Un kilogramo es una unidad de **masa**, así que si ambos son 1 kg, tienen la misma masa; en condiciones reales, la diferencia por el aire sería mínima y suele hacer que el de plumas pese *ligeramente menos* por desplazamiento de aire.[1][6][12]
+
+",1.7757492999990063,,,,0.759859999998298,36,95,125.02303055854077,0.005,0.00513,10,10,10,13,Razonamiento logico
+Perplexity,texto,"**Uno: febrero.** Es el único mes que tiene 28 días en un año normal, y 29 en año bisiesto[1][2][4].",2.5039030000007187,,,,0.24527520000265213,22,38,154.9280155498359,0.005,0.00506,10,10,10,14,Razonamiento logico
+Perplexity,binary,"Algunos meses tienen 30 días, otros 31. ¿Cuántos tienen 28 días? **Uno: febrero**.[12]
+
+",3.1344951999999466,,,,0.6898074999990058,271,32,46.38975366322651,0.005,0.0053,10,10,10,14,Razonamiento logico
+Perplexity,hexa,"El número **28 días** corresponde a **febrero en un año no bisiesto**; en años bisiestos, febrero tiene **29 días**.[1][4]
+
+Si querías preguntar cuántos meses tienen 28 días, la respuesta es **solo febrero**.[1][4]",2.4456788999996206,,,,0.4042311000011978,68,74,183.0635990149712,0.005,0.00514,10,10,10,14,Razonamiento logico
+Perplexity,json,"**Los 12 meses** tienen al menos 28 días, porque todos incluyen ese día dentro de su duración.[7][11]
+
+Si la pregunta pretende decir *“¿qué mes tiene exactamente 28 días?”*, entonces la respuesta es **febrero** en un año normal, y **29** en un año bisiesto.[1][3][13]",1.688296000000264,,,,0.7691698000016913,29,84,109.20865587782475,0.005,0.00511,5,8,8,14,Razonamiento logico
+Perplexity,csv,"**Todos los 12 meses** tienen al menos 28 días; **febrero** es el único que tiene **exactamente 28** en un año normal y **29** en año bisiesto.[7][13]
+
+Si la pregunta es la trampa clásica, la respuesta correcta es **12**.",1.5339057999990473,,,,0.48790139999982785,25,70,143.47161127232818,0.005,0.00509,10,10,10,14,Razonamiento logico
+Perplexity,xml,"**Los 12 meses** tienen al menos 28 días; si la pregunta es qué mes **tiene exactamente 28 días**, la respuesta es **febrero** (en años comunes).[8][7][3]
+
+Si quieres, también puedo explicarte por qué esta pregunta suele ser una trampa.",1.6235841999987315,,,,0.5619466999996803,35,69,122.78744585569994,0.005,0.0051,10,10,10,14,Razonamiento logico
+Perplexity,html,"**Los 12 meses** tienen al menos 28 días. La trampa es que **febrero** es el único mes que tiene *exactamente* 28 días en un año normal, pero todos los demás también incluyen esos 28 primeros días.[7][9]",1.977837800000998,,,,0.7450374000000011,42,62,83.21729888996164,0.005,0.0051,10,10,10,14,Razonamiento logico
+Perplexity,texto,"La persona **más alta** es **Ana**, porque Ana es más alta que Luis y Luis es más alto que Marta, así que Ana queda por encima de ambos en estatura.",2.2325930000006338,,,,0.33513809999931254,24,40,119.35378281395654,0.005,0.00506,10,10,10,15,Razonamiento logico
+Perplexity,binary,Ana is taller than Luis. The message says: “Ana es más alta que Luis. Luis es más alto que Marta. ¿Quién es la persona más alta?” So the tallest person is **Ana**.,4.7762268999977096,,,,0.5012424999986251,355,44,87.78186207299,0.005,0.0054,10,10,10,15,Razonamiento logico
+Perplexity,hexa,"La persona más alta es **Robert Wadlow**, con **2,72 metros**. Según Guinness World Records, es la persona más alta de la historia registrada de forma verificable.[1][3][8]
+
+Si te referías a la **persona viva más alta**, esa es **Sultan Kösen**, con **2,51 metros**.[4][7][16]",2.613510099999985,,,,0.5322297999991861,83,88,165.3421135008498,0.005,0.00517,10,10,10,15,Razonamiento logico
+Perplexity,json,"La persona **más alta** es **Ana**. Ana es más alta que Luis, y Luis es más alto que Marta, así que Ana queda por encima de ambos.[1][10]",2.2767813000027672,,,,0.34230070000194246,31,44,128.54195156407894,0.005,0.00508,10,10,10,15,Razonamiento logico
+Perplexity,csv,"Ana es la **persona más alta**. Luis es más alto que Marta, y Ana es más alta que Luis; por lo tanto, Ana supera a ambos.",2.136868499997945,,,,0.36335219999818946,26,35,96.3252733853666,0.005,0.00506,10,10,10,15,Razonamiento logico
+Perplexity,xml,"Ana es la persona más alta, porque **Ana es más alta que Luis** y **Luis es más alto que Marta**, así que Ana supera a ambos.",1.3050781000019924,,,,0.3371186000003945,37,35,103.82102915697634,0.005,0.00507,10,10,10,15,Razonamiento logico
+Perplexity,html,"La persona más alta es **Ana**, porque Ana es más alta que Luis y Luis es más alto que Marta.",1.0729235999970115,,,,0.1966562999987218,44,24,122.04033127927248,0.005,0.00507,10,10,10,15,Razonamiento logico
+Perplexity,texto,"Ahora vive en **Cádiz**. El enunciado dice explícitamente que “actualmente vive en Cadiz”, así que esa es su residencia actual.",2.038731700002245,,,,0.3250841000008222,24,37,113.81670158554792,0.005,0.00506,10,10,10,16,Extraccion de informacion
+Perplexity,binary,Carlos nació en Sevilla y actualmente vive en Cádiz[1][2].,3.049124799999845,,,,0.15933960000256775,323,20,125.51807585608161,0.005,0.00534,10,10,10,16,Extraccion de informacion
+Perplexity,hexa,"Carlos nació en **Sevilla** y vive actualmente en **Cádiz**; por la forma en que está formulada la consulta, lo más probable es que preguntes **“¿Dónde vive ahora?”**, y la respuesta es **Cádiz**.[1]
+
+Si quieres, también puedo ayudarte a interpretar el texto completo en español claro o identificar si la cadena incluye algún cifrado/decodificación.",2.724153399998613,,,,0.886094099998445,78,94,106.0835412403321,0.005,0.00517,10,10,10,16,Extraccion de informacion
+Perplexity,json,Vive ahora en **Cádiz**.,2.10119929999928,,,,0.12003829999957816,31,10,83.30674459764211,0.005,0.00504,10,10,10,16,Extraccion de informacion
+Perplexity,csv,"Carlos **vive actualmente en Cádiz**.[4]
+
+La frase “nació en Sevilla en 206” indica su lugar de nacimiento, pero eso no cambia su **residencia actual**, que el enunciado ya especifica como Cádiz.[1][4]",2.212331400001858,,,,0.3738346999998612,26,65,173.87363987351665,0.005,0.00509,10,10,10,16,Extraccion de informacion
+Perplexity,xml,"Vive en **Cádiz**.[2]
+
+La frase del documento dice: “Carlos nació en Sevilla en 206 y actualmente vive en Cadiz. ¿Dónde vive ahora?”, así que la respuesta directa es **Cádiz**.",1.726856699999189,,,,0.43831890000001295,37,57,130.04230481505203,0.005,0.00509,10,10,10,16,Extraccion de informacion
+Perplexity,html,Vive ahora en **Cádiz**.,1.090694500002428,,,,0.10769970000183093,44,10,92.85076931347066,0.005,0.00505,10,10,10,16,Extraccion de informacion
+Perplexity,texto,"El lunes, **abre a las 12:00** horas.[1][5]
+
+Esto es así porque el horario general indicado para ese museo es de **martes a domingo de 10:00 a 21:00**, pero el lunes tiene un horario especial distinto.[1]",2.67743419999897,,,,0.3868898000000627,30,70,180.93007362817178,0.005,0.0051,10,10,10,17,Extraccion de informacion
+Perplexity,binary,"El museo abre el domingo de 10:00 a 19:00 y los lunes abre de 12:00 a 16:00[1]. Si la pregunta era por otro museo, dime cuál y lo confirmo.",3.1476063000009162,,,,0.308783600001334,343,51,165.16421208827046,0.005,0.00539,10,10,10,17,Extraccion de informacion
+Perplexity,hexa,"El **lunes** no abre; con el horario que muestras, abre **de martes a domingo, de 10:00 a 15:00**. Por tanto, **no abre los lunes** y el horario del **domingo** es de **10:00 a 15:00**.[1]
+
+Si quieres, también puedo ayudarte a interpretar si preguntas por la **primera hora de apertura del lunes** o por el **horario de algún museo concreto**.",2.8796027999997023,,,,0.9289672000013525,78,112,120.5639983842669,0.005,0.00519,10,10,10,17,Extraccion de informacion
+Perplexity,json,"El **lunes no abre**; según el horario dado, el museo está abierto de **martes a domingo** de 10:00 a 21:00, así que el lunes permanece **cerrado**.[1][2][7][18][19]",3.1812081999996735,,,,0.4902271000028122,37,65,132.59160907185083,0.005,0.0051,10,10,10,17,Extraccion de informacion
+Perplexity,csv,"El **lunes no abre** si el museo solo abre de **martes a domingo**.  
+
+Si quieres, puedo ayudarte a convertir ese horario en una frase más clara o en un horario semanal completo.",2.4841825000003155,,,,0.2853632000005746,32,49,171.71099847458024,0.005,0.00508,10,10,10,17,Extraccion de informacion
+Perplexity,xml,El **lunes no abre**; el museo está **cerrado** ese día según los horarios habituales de este tipo de información en los resultados proporcionados[4][8][19].,1.3501964999995835,,,,0.34395500000027823,43,43,125.01635388340108,0.005,0.00509,10,10,10,17,Extraccion de informacion
+Perplexity,html,"El **lunes no abre** si el museo está abierto solo de **martes a domingo**.[4][7][19]
+
+Si quieres, también puedo ayudarte a identificar **qué día sí abre** según el horario del museo.",1.8314169999976002,,,,0.7676601999992272,50,56,72.94894277449369,0.005,0.00511,10,10,10,17,Extraccion de informacion
+Perplexity,texto,"La conferencia tiene lugar en **Madrid**.[1]
+
+Si necesitas el **lugar exacto** dentro de Madrid, la fuente indica que es la **Escuela Diplomática, Paseo de Juan XXIII, 5, 28008 Madrid**.[1]",1.9279309999983525,,,,0.400249199999962,25,62,154.90349512255335,0.005,0.00509,10,10,10,18,Extraccion de informacion
+Perplexity,binary,"La conferencia parece ser el evento de **“Inteligencia artificial y derechos humanos”** en el Ateneo de Madrid, el **15 de septiembre a las 19:00**[1]. Si te referías a otra conferencia, puedo ayudarte a identificarla con más detalle.",2.88626270000168,,,,0.471583800001099,383,64,135.7128892041051,0.005,0.00545,10,10,10,18,Extraccion de informacion
+Perplexity,hexa,"La conferencia tiene lugar en la **Escuela Diplomática**, en **Paseo de Juan XXIII, 5, 28008 Madrid**.[1][6]
+
+El evento está programado para el **lunes 15 de septiembre de 2025**, de **16:00 a 18:00**.[1][6]",1.5661817000000156,,,,0.42906550000043353,92,77,179.45977945074168,0.005,0.00517,10,10,10,18,Extraccion de informacion
+Perplexity,json,"La conferencia tiene lugar en **Madrid**.[1]
+
+Si necesitas, también puedo decirte el **lugar exacto** dentro de Madrid: la **Escuela Diplomática, Paseo de Juan XXIII, 5**.[1]",1.5764882999974361,,,,0.3936792999993486,32,56,142.24776359867704,0.005,0.00509,10,10,10,18,Extraccion de informacion
+Perplexity,csv,"La conferencia tiene lugar en **Madrid**.[1]
+
+Más específicamente, la fuente indica la **Escuela Diplomática**, en el **Paseo de Juan XXIII, 5, 28008 Madrid**.[1]",1.9814172999977018,,,,0.5795824999986507,27,54,93.17051498298467,0.005,0.00508,10,10,10,18,Extraccion de informacion
+Perplexity,xml,"La conferencia tiene lugar en **Madrid**.[1]
+
+Si quieres, también puedo señalar el **lugar exacto** dentro de Madrid que aparece en la fuente.",1.269644399999379,,,,0.2902773000023444,38,39,134.35428812271925,0.005,0.00508,10,10,10,18,Extraccion de informacion
+Perplexity,html,La conferencia tiene lugar en **Madrid**.[1],1.0946413000019675,,,,0.13265710000268882,45,14,105.53524839391359,0.005,0.00506,10,10,10,18,Extraccion de informacion
+Perplexity,texto,"Si el proyecto **sigue en curso**, entonces **todavía no se ha terminado**; por definición, no tiene una fecha de finalización cerrada todavía.[2][3]
+
+Si te refieres a un proyecto concreto de los resultados, necesito el **nombre del proyecto** para decirte cuándo terminó o cuándo está previsto que termine.",2.61920789999931,,,,0.7259041999968758,27,85,117.09534123148183,0.005,0.00511,10,10,10,19,Extraccion de informacion
+Perplexity,binary,"El proyecto al que parece referirse el texto no está identificado con suficiente claridad para afirmar una fecha exacta de inicio o de término. Si se trata del **“Proyecto de ley marco de autorizaciones sectoriales”**, comenzó en 2024 y su tramitación terminó el **29/09/2025**[1].
+
+Si quieres, puedo ayudarte a **decodificar el mensaje completo** o decirte **qué dice exactamente en español**.",3.437419599998975,,,,0.7372695999983989,403,105,142.4173735092672,0.005,0.00551,10,10,10,19,Extraccion de informacion
+Perplexity,hexa,"El **proyecto se inició en 2024**. Según los resultados disponibles, hay varias iniciativas con fechas de inicio en 2024, pero la referencia más clara para un “proyecto” en singular indica **inicio en julio de 2024** y, en ese caso, habría estado **finalizado en julio de 2026** si se trata del proyecto de Chinulito, Sucre.[1]
+
+Si te refieres a otro proyecto concreto, dime el **nombre exacto** o la **entidad** y te digo cuándo terminó con precisión.[1]",3.100785700000415,,,,1.1470726000006835,92,135,117.69089419442115,0.005,0.00523,10,10,10,19,Extraccion de informacion
+Perplexity,json,"El proyecto **no se habría terminado en 2024** si seguimos la fecha límite general indicada en la convocatoria: la ejecución termina el **31 de diciembre de 2024**, con posibilidad de prórroga hasta el **30 de junio de 2025** si está justificada[1].
+
+Si te refieres a un proyecto concreto de los resultados, la fecha de fin depende del caso:
+- **31/12/2024** como límite ordinario[1]
+- **30/06/2025** si hubo prórroga justificada[1]
+- En otros proyectos concretos puede haber otra fecha de finalización, por ejemplo **31/12/2026** o **03/07/2025** según el proyecto[6][5]
+
+Si quieres, puedo ayudarte a identificar **la fecha exacta de fin** de un proyecto específico si me dices cuál es.",3.4187450999997964,,,,1.5406908000004478,34,210,136.30249495871524,0.005,0.00524,10,10,10,19,Extraccion de informacion
+Perplexity,csv,"Si el proyecto **sigue en curso**, entonces **todavía no se ha terminado**. Si te refieres al proyecto de la fuente que indica **fecha de inicio en 2024** y **fecha de finalización en 2027**, su término está previsto para **2027**[2][11][12][14][16][19].
+
+Si quieres, puedo ayudarte a identificar **qué proyecto exacto** es, porque los resultados muestran varios proyectos distintos con fechas diferentes.",2.631941799998458,,,,0.8584095999976853,29,114,132.803733788983,0.005,0.00514,10,10,10,19,Extraccion de informacion
+Perplexity,xml,"El proyecto **no se ha terminado**; según el documento, fue iniciado en 2024 y **actualmente sigue en curso**, así que no hay una fecha de finalización indicada.[3][6][9]
+
+Si quieres, puedo ayudarte a **extraer una fecha estimada de término** si el documento contiene más datos sobre duración o fin previsto.",2.3140598999998474,,,,0.6073289000014483,40,82,135.01745100522047,0.005,0.00512,10,10,10,19,Extraccion de informacion
+Perplexity,html,"El proyecto **no se ha terminado todavía**; según tu enunciado, “actualmente sigue en curso”. Si necesitas una fecha de finalización concreta, no puede determinarse solo con esa información.",1.9352771999983815,,,,0.43883439999990514,47,48,109.38066842528839,0.005,0.00509,10,10,10,19,Extraccion de informacion
+Perplexity,texto,"Carlos cumple años **el miércoles**. Si su cumpleaños se celebra el viernes, eso indica que *hoy es miércoles* y su cumpleaños cae ese mismo día.",2.543517400001292,,,,0.38358680000237655,29,47,122.5276782196593,0.005,0.00508,10,10,10,20,Extraccion de informacion
+Perplexity,binary,"La frase en binario dice: **“El cumpleaños de Carlos lo celebra el viernes, pero es el miércoles. ¿Qué día cumple años Carlos?”**
+
+La respuesta es: **miércoles**.",2.65932310000062,,,,0.2601199999990058,411,49,188.37459634087068,0.005,0.00546,10,10,10,20,Extraccion de informacion
+Perplexity,hexa,"**Carlos Alcaraz** cumple el **5 de mayo**; nació el **5 de mayo de 2003**, así que en 2026 tiene o cumple **23 años**.[1]
+
+Si te referías a **otro Carlos** —por ejemplo, el **rey Carlos III**— su cumpleaños oficial es el **14 de noviembre**.[3][5]",2.61627690000023,,,,0.6716529000004812,106,88,131.02005515041617,0.005,0.00519,0,0,0,20,Extraccion de informacion
+Perplexity,json,"Carlos cumple años **el viernes**. Si hoy es miércoles y “el cumpleaños de Carlos lo celebra el viernes”, entonces su cumpleaños cae en **viernes**.",1.5909739000016998,,,,0.3676703000019188,36,46,125.11209091340784,0.005,0.00508,10,10,10,20,Extraccion de informacion
+Perplexity,csv,"Carlos cumple años **el miércoles**.  
+Si su cumpleaños se celebra el viernes, entonces hoy es miércoles y el cumpleaños de Carlos es **el viernes** en la semana mencionada; pero como preguntas **qué día cumple años**, la respuesta es: **viernes**.",1.9736035999994783,,,,0.7789086999982828,32,72,92.4370211812485,0.005,0.0051,10,10,10,20,Extraccion de informacion
+Perplexity,xml,"Carlos cumple años el **viernes**. Si hoy es miércoles y su cumpleaños **se celebra el viernes**, entonces su fecha de nacimiento corresponde a ese día de la semana.[17]",1.6237806999997701,,,,0.3918192999990424,42,48,122.5054508548132,0.005,0.00509,10,10,10,20,Extraccion de informacion
+Perplexity,html,"Carlos cumple años **el miércoles**. Si su cumpleaños se celebra el viernes pero hoy es miércoles, entonces faltan **2 días** para su cumpleaños, así que su fecha real cae en **viernes** solo si la celebración se adelanta; pero la lectura más natural del enunciado es que *“lo celebra el viernes”* se refiere al día de celebración, no al día exacto del nacimiento.",3.785952099999122,,,,2.182498599999235,49,106,48.568186939518384,0.005,0.00516,10,10,10,20,Extraccion de informacion

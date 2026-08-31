@@ -1,0 +1,672 @@
+﻿Modelo,Formato,Respuesta,Tiempo de espera de usuario,Tiempo en procesar la solicitud,Tiempo que tarda en cargar el modelo,Tiempo que tarda el modelo en procesar la entrada,Tiempo que el modelo genera tokens,Tokens de entrada,Tokens de salida,Tokens generados por segundo,Correccion,Claridad,Completitud,ID,Categoria
+Gemma,texto,La capital de España es **Madrid**.,12.65612506866455,12.6535507,12.0099262,0.325438,0.314013,30,9,28.661233770576377,10,10,10,1,Conocimiento general
+Gemma,binary,"The provided sequence of numbers appears to be a representation of a game state or turn in a strategic game. It contains various elements that suggest it might be a representation of a turn in a game like chess or Go:
+
+**Elements:**
+
+* **Board state:** The sequence of numbers could represent the state of a game board, where each number represents a piece or territory.
+* **Player's move:** The sequence includes a series of moves, each represented by a sequence of numbers. 
+* **Action details:** Some numbers might indicate the type of move made, such as capturing an opponent's piece or moving a piece to a specific location.
+
+**Possible interpretation:**
+
+The sequence shows a player making several moves in a game. 
+
+* The player starts by capturing an opponent's piece (11000010).
+* Then, they move their own piece to a new location (10111111).
+* This is followed by several other moves involving capturing pieces, moving pieces, and capturing again.
+
+**Further analysis:**
+
+To understand the game and the meaning of the sequence more fully, additional information is needed:
+
+* The rules of the game being played.
+* The specific pieces or territories represented by the numbers.
+* The possible actions that can be taken in the game.
+
+With more context, it would be possible to interpret the sequence of numbers more accurately and determine the outcome of the game turn.",25.694865942001343,25.6931928,12.0970672,1.829022,11.763544,318,303,25.757543815027173,0,0,10,1,Conocimiento general
+Gemma,hexa,The provided text appears to be a sequence of characters and does not have any inherent meaning or significance. It is not possible for me to provide any interpretation or analysis of this text.,11.902380228042603,11.9006516,9.1539466,0.568375,1.311232,87,37,28.217737212026552,0,0,0,1,Conocimiento general
+Gemma,json,La capital de España es **Madrid**.,10.889427185058594,10.8876054,9.4471701,0.312657,0.294278,38,9,30.583325970680786,10,10,10,1,Conocimiento general
+Gemma,csv,La capital de España es **Madrid**.,15.681335926055908,15.6794589,9.4318712,0.289999,0.285229,34,9,31.553593779033687,10,10,10,1,Conocimiento general
+Gemma,xml,La capital de España es **Madrid**.,11.202098369598389,11.2008203,9.149195,0.357317,0.293203,48,9,30.695456731343132,10,10,10,1,Conocimiento general
+Gemma,html,La capital de España es **Madrid**.,10.655928611755371,10.6537551,9.1448495,0.389105,0.294865,58,9,30.522442473674396,10,10,10,1,Conocimiento general
+Gemma,texto,La teoría de que Cristóbal Colón descubrió América en 1492 es falsa. Los pueblos indígenas ya estaban presentes en América antes de la llegada de Colón.,11.736341953277588,11.7341728,9.5662183,0.243262,1.181795,30,33,27.923624655714402,10,10,10,2,Conocimiento general
+Gemma,binary,"The provided sequence of numbers appears to be a representation of a game state or transaction log. It is not immediately clear what the specific game or application is, but the sequence of numbers suggests that it involves actions or events that have occurred.
+
+**Here's what we can decipher from the sequence:**
+
+* **Players and actions:**
+    * 11000010: Player ID
+    * 10111111: Action ID (move, attack, cast spell, etc.)
+    * 01000101: Target ID (enemy, item, location, etc.)
+    * Subsequent sequences of numbers likely represent additional details about the action, such as damage dealt, resources consumed, or other game state changes.
+
+
+* **Timestamps:**
+    * The sequence of zeros (00100000) appears repeatedly throughout the log, possibly indicating timestamps or turns.
+
+
+* **Game state changes:**
+    * The presence of actions with target IDs and timestamps suggests that the game state is changing over time.
+
+
+**Without further context or information about the specific game or application, it is difficult to interpret the exact meaning or purpose of the sequence.** However, it is likely that this sequence of numbers represents a record of gameplay actions and their impact on the game state.
+
+**Possible interpretations:**
+
+* This could be a log of actions in a turn-based strategy game, where each action is assigned a unique ID and timestamp.
+* It could be a record of player actions in an online multiplayer game, where the sequence of numbers is used to synchronize gameplay across multiple players.
+* It could be a representation of a game state snapshot, capturing the state of the game at a particular point in time.
+
+**If you have additional information about the game or application from which this sequence originated, it would be possible to provide a more accurate interpretation of its meaning and purpose.**",28.089413166046143,28.0874262,9.1293197,2.467299,15.622583,399,399,25.539950723897576,0,0,0,2,Conocimiento general
+Gemma,hexa,The provided text appears to be a sequence of random characters and does not have any meaningful content or context.,11.708082437515259,11.7062879,9.4171736,0.624888,0.774284,103,22,28.413347040620756,0,0,0,2,Conocimiento general
+Gemma,json,Colón descubrió América en el año **1492**.,10.639043807983398,10.6377989,9.1166449,0.324366,0.474681,38,14,29.493491418447334,10,10,10,2,Conocimiento general
+Gemma,csv,La teoría de que Cristóbal Colón descubrió América en 1492 es falsa. Los pueblos indígenas ya estaban presentes en América antes de la llegada de Colón.,16.213460206985474,16.2118148,9.1168156,0.272998,1.162182,34,33,28.39486414348183,10,10,10,2,Conocimiento general
+Gemma,xml,"Colón nunca descubrió América. Los exploradores europeos llegaron a América alrededor de 1492, pero nunca lo descubrió.",11.821073293685913,11.8195148,9.1144733,0.354715,0.946392,48,27,28.52940430603809,10,10,10,2,Conocimiento general
+Gemma,html,Colón descubrió América en el año **1492**.,10.787853956222534,10.7862195,9.1263836,0.389728,0.467981,58,14,29.915744442616262,10,10,10,2,Conocimiento general
+Gemma,texto,El elemento químico con el símbolo O es el oxígeno.,10.711932897567749,10.7099477,9.131634,0.277918,0.393982,31,12,30.458244285271917,10,10,10,3,Conocimiento general
+Gemma,binary,"The provided sequence of numbers appears to be a representation of a game state or transaction log. It is not immediately clear what the specific game or application is, but it suggests that it involves actions or events that have been recorded in chronological order.
+
+**Here's what we can understand from the sequence:**
+
+* **Turn-based gameplay:** The presence of `",15.498347520828247,15.4964204,9.1391455,2.530499,3.051545,426,79,25.88852532078013,0,0,10,3,Conocimiento general
+Gemma,hexa,The provided text appears to be a sequence of random characters and does not have any meaningful content or interpretation.,11.430711030960083,11.4292894,9.1266815,0.607041,0.762863,109,22,28.838729889901597,0,0,0,3,Conocimiento general
+Gemma,json,El elemento químico con el símbolo O es el Oxigeno.,10.863683223724365,10.8617011,9.1417235,0.332589,0.47015,39,14,29.77773051153887,10,10,10,3,Conocimiento general
+Gemma,csv,El elemento químico con el símbolo O es el oxígeno.,15.008723020553589,15.0070485,8.8728225,0.286868,0.404129,35,12,29.69348896020825,10,10,10,3,Conocimiento general
+Gemma,xml,El elemento químico con el símbolo O es el Oxigeno.,11.337779760360718,11.3362134,9.125013,0.357839,0.474564,49,14,29.500762805438256,10,10,10,3,Conocimiento general
+Gemma,html,El elemento químico con el símbolo O es el Oxigeno.,11.487175703048706,11.4858676,9.1128334,0.391487,0.470774,59,14,29.738260821540695,10,10,10,3,Conocimiento general
+Gemma,texto,Al mezclar rojo y azul se obtiene el color magenta.,10.873138904571533,10.8715553,9.4036552,0.297987,0.418197,33,12,28.694610434795084,10,10,10,4,Conocimiento general
+Gemma,binary,"The provided sequence of numbers appears to be a representation of a game state or transaction log. It is not immediately clear what the specific game or application is, but it suggests that it involves actions or events that have been recorded in chronological order.
+
+**Here's what we can understand from the sequence:**
+
+* **Turn-based gameplay:** The presence of `",16.26258111000061,16.261227,9.1187765,2.638423,2.955683,444,79,26.72817078150803,0,0,0,4,Conocimiento general
+Gemma,hexa,The provided text appears to be a sequence of random characters and does not have any meaningful content or interpretation.,12.120548248291016,12.1190839,9.1513124,0.62843,0.772486,115,22,28.479480534275055,0,0,10,4,Conocimiento general
+Gemma,json,Al mezclar rojo y azul se obtiene el color magenta.,10.65026044845581,10.6486503,9.1305519,0.35405,0.391316,41,12,30.665753508673298,10,10,10,4,Conocimiento general
+Gemma,csv,El color que se obtiene al mezclar rojo y azul es el añil.,12.7709641456604,12.7695563,9.1449674,0.301039,0.535042,37,16,29.904194437072228,10,10,10,4,Conocimiento general
+Gemma,xml,Al mezclar rojo y azul se obtiene el colorragma.,12.747606039047241,12.7461816,11.9850082,0.365929,0.391958,51,12,30.615525132794843,0,0,0,4,Conocimiento general
+Gemma,html,El color que se obtiene al mezclar rojo y azul es **violeta**.,12.830778360366821,12.829424,11.8981864,0.382417,0.545575,61,16,29.32685698574898,10,10,10,4,Conocimiento general
+Gemma,texto,La Tierra no tiene un satélite natural. Sus lunas más cercanos son la Luna y Mercurio.,12.897190570831299,12.8957215,11.9717878,0.230947,0.6901,32,20,28.981307056948268,10,10,10,5,Conocimiento general
+Gemma,binary,"The provided sequence of numbers appears to be a representation of a game state or turn in a strategic game. It is not possible for me to interpret the specific details or actions without additional context or information about the game itself.
+
+If you can provide more information about the game and the meaning of the numbers, I can try to analyze the sequence and provide insights or explanations.",17.061465978622437,17.060178,11.7414679,2.462671,2.852342,426,75,26.2941821142065,0,0,10,5,Conocimiento general
+Gemma,hexa,The provided text appears to be a sequence of random characters and does not have any meaningful content or interpretation.,12.986903429031372,12.9853976,11.6189558,0.593536,0.768962,111,22,28.60999633271865,10,10,10,5,Conocimiento general
+Gemma,json,"La respuesta es: La Luna.
+
+La Luna es el satélite natural de la Tierra. Es el único cuerpo celeste que órbita alrededor de la Tierra.",13.183751821517944,13.1821979,11.679943,0.338333,1.160061,40,33,28.446779953812772,10,10,10,5,Conocimiento general
+Gemma,csv,La Tierra tiene un único satélite natural: la Luna.,12.757804155349731,12.7565748,12.0306977,0.330131,0.392154,36,12,30.600223381630684,10,10,10,5,Conocimiento general
+Gemma,xml,"La respuesta es: La Luna.
+
+La Luna es el satélite natural de la Tierra. Es el único cuerpo celeste que órbita alrededor de la Tierra.",16.08936047554016,16.0875946,14.5384772,0.37074,1.174476,50,33,28.097636733317664,10,10,10,5,Conocimiento general
+Gemma,html,"La respuesta es: La Luna.
+
+La Luna es el satélite natural de la Tierra. Es el único cuerpo celeste que órbita alrededor de la Tierra.",13.421093702316284,13.419299,11.8677111,0.384608,1.163796,60,33,28.355484981904045,10,10,10,5,Conocimiento general
+Gemma,texto,25 x 44 = 1100,13.856651782989502,13.8552681,13.0714159,0.328459,0.452387,33,13,28.7364579441938,10,10,10,6,Analisis Matematico
+Gemma,binary,"The provided sequence of numbers appears to be a binary representation of a message. When interpreted as such, the message reads:
+
+""Hello, world!""
+
+This is a common phrase used in computer programming and digital communication.",15.171318531036377,15.1698537,12.4017766,1.139742,1.624446,210,45,27.70175185878755,0,0,10,6,Analisis Matematico
+Gemma,hexa,"The provided text does not contain any meaningful or interpretable information, so I am unable to provide any analysis or insights.",14.437968015670776,14.4364488,13.160713,0.400588,0.871289,63,25,28.69312019318504,10,10,10,6,Analisis Matematico
+Gemma,json,25 x 44 = 1100.,13.851001739501953,13.8493745,13.024292,0.350558,0.471754,41,14,29.676483930183952,10,10,10,6,Analisis Matematico
+Gemma,csv,25 x 44 = 1100,13.250775814056396,13.2491896,12.4616328,0.330376,0.454189,37,13,28.62244572193514,10,10,10,6,Analisis Matematico
+Gemma,xml,25 x 44 = 1100.,13.162165641784668,13.16068,12.3111692,0.368947,0.477424,51,14,29.324039009350177,10,10,10,6,Analisis Matematico
+Gemma,html,El resultado de 25 x 44 es **1100**.,13.191560506820679,13.1897399,12.1780528,0.37711,0.631092,61,18,28.521990454640527,10,10,10,6,Analisis Matematico
+Gemma,texto,"$$2X + 3 = 5$$
+
+$$2X = 5 - 3$$
+
+$$2X = 2$$
+
+$$X = 2/2$$
+
+$$X = 1$$",14.678737163543701,14.6770586,12.6875712,0.333645,1.653084,37,46,27.82677710267597,10,10,10,7,Analisis Matematico
+Gemma,binary,"The provided sequence of binary digits appears to be a sequence of moves or actions taken during a game or simulation. Each move is represented by a series of binary digits.
+
+**Here's an interpretation of the sequence:**
+
+- **Action 1:** 01010010 01100101 01110011 01110101 - This sequence could represent moving forward, rotating right, jumping, and interacting with an object.
+- **Action 2:** 01100101 01101100 01110110 01100101 - This sequence could represent collecting an item, activating a switch, or changing direction.
+- **Action 3:** 00100000 01101100 01100001 00100000 - This sequence could represent using a special ability, collecting a power-up, or performing a specific action.
+- **Action 4:** 01100101 01100011 01110101 01100001 01100011 01101001 - This sequence could represent attacking an enemy, healing a character, or completing a task.
+
+**The sequence continues with additional actions, suggesting that it represents a series of moves or events in a game or simulation.**
+
+**Without further context or information about the specific game or simulation, it is difficult to determine the exact meaning or purpose of the sequence.** However, the interpretation above provides a possible understanding of the actions being performed.",28.954207181930542,28.9523864,12.2327609,1.945617,14.770584,318,379,25.659107317625356,0,0,0,7,Analisis Matematico
+Gemma,hexa,I am unable to interpret the provided text as it appears to be a random sequence of characters and numbers.,13.630599975585938,13.6291179,9.1373688,0.590272,0.785307,88,22,28.014521709344244,10,10,10,7,Analisis Matematico
+Gemma,json,"Para resolver la ecuación:
+
+$$2X + 3 = 5$$
+
+deben realizar los siguientes pasos:
+
+1. Restar 3 de ambos lados de la ecuación:
+
+$$2X + 3 - 3 = 5 - 3$$
+
+$$2X = 2$$
+
+2. Dividir ambos lados de la ecuación por 2:
+
+$$\frac{2X}{2} = \frac{2}{2}$$
+
+$$X = 1$$
+
+Por lo tanto, la solución a la ecuación es X = 1.",14.98660159111023,14.9851382,9.1543194,0.354246,4.538687,47,122,26.88002058745183,10,10,10,7,Analisis Matematico
+Gemma,csv,"$$2X + 3 = 5$$
+
+$$2X = 5 - 3$$
+
+$$2X = 2$$
+
+$$X = 2/2$$
+
+$$X = 1$$",19.15531349182129,19.1538105,9.1660187,0.247258,1.659082,42,46,27.72617628302881,10,10,10,7,Analisis Matematico
+Gemma,xml,"Para resolver la ecuación:
+
+$$2X + 3 = 5$$
+
+deben realizar los siguientes pasos:
+
+1. Restar 3 de ambos lados de la ecuación:
+
+$$2X + 3 - 3 = 5 - 3$$
+
+$$2X = 2$$
+
+2. Dividir ambos lados de la ecuación por 2:
+
+$$\frac{2X}{2} = \frac{2}{2}$$
+
+$$X = 1$$
+
+Por lo tanto, la solución a la ecuación es X = 1.",18.473573207855225,18.472089,13.5174826,0.375682,4.575045,56,122,26.666404374164625,10,10,10,7,Analisis Matematico
+Gemma,html,"Para resolver la ecuación:
+
+$$2X + 3 = 5$$
+
+deben realizar los siguientes pasos:
+
+1. Restar 3 de ambos lados de la ecuación:
+
+$$2X + 3 - 3 = 5 - 3$$
+
+$$2X = 2$$
+
+2. Dividir ambos lados de la ecuación por 2:
+
+$$\frac{2X}{2} = \frac{2}{2}$$
+
+$$X = 1$$
+
+Por lo tanto, la solución a la ecuación es X = 1.",17.42172336578369,17.4203252,12.3329442,0.51869,4.565103,66,122,26.724479162901694,10,10,10,7,Analisis Matematico
+Gemma,texto,"La fórmula para calcular el área de un cuadrado es:
+
+Área = lado²
+
+En este caso, el lado del cuadrado es de 5 m.
+
+Área = 5² = 25 m²
+
+Por lo tanto, el área del cuadrado es de **25 m²**.",14.765921592712402,14.7642722,12.2248307,0.345419,2.191299,35,61,27.837369523739117,10,10,10,8,Analisis Matematico
+Gemma,binary,"The provided sequence of characters appears to be a binary representation of a turn in a game or simulation. Here's an interpretation of the data:
+
+**Start of Turn:**
+
+- The sequence `",16.35037922859192,16.3490021,11.962049,2.589125,1.79279,435,47,26.216121241193893,10,10,10,8,Analisis Matematico
+Gemma,hexa,The provided text appears to be a sequence of random characters and does not have any meaningful content or interpretation.,13.786803960800171,13.7832275,12.2411413,0.658782,0.879356,114,22,25.018308853297185,10,10,10,8,Analisis Matematico
+Gemma,json,"La fórmula para calcular el área de un cuadrado es:
+
+**Área = lado²**
+
+En este caso, el lado del cuadrado es de 5 m.
+
+Para calcular el área, simplemente sustituimos los valores en la fórmula:
+
+**Área = 5 m²**
+
+Por lo tanto, el área del cuadrado es de **25 m².**",14.934489727020264,14.9329975,11.8371959,0.359182,2.733564,45,75,27.436708999679542,10,10,10,8,Analisis Matematico
+Gemma,csv,"La fórmula para calcular el área de un cuadrado es:
+
+Área = lado²
+
+En este caso, el lado del cuadrado es de 5 m.
+
+Área = 5² = 25 m²
+
+Por lo tanto, el área del cuadrado es de **25 m²**.",15.943365335464478,15.9418571,13.424666,0.329705,2.183729,40,61,27.933869083572183,10,10,10,8,Analisis Matematico
+Gemma,xml,"La fórmula para calcular el área de un cuadrado es:
+
+Área = lado²
+
+En este caso, el lado del cuadrado es de 5 m.
+
+Área = 5² = 25 m²
+
+Por lo tanto, el área del cuadrado es de **25 m²**.",15.910192728042603,15.9082921,13.3706289,0.364789,2.169648,54,61,28.115159694107064,10,10,10,8,Analisis Matematico
+Gemma,html,"La fórmula para calcular el área de un cuadrado es:
+
+**Área = lado²**
+
+En este caso, el lado del cuadrado es de 5 m.
+
+Para calcular el área, simplemente sustituimos los valores en la fórmula:
+
+**Área = 5 m²**
+
+Por lo tanto, el área del cuadrado es de **5 m².**",14.854154109954834,14.852609,11.9255631,0.369731,2.554395,64,74,28.96967775148323,10,10,10,8,Analisis Matematico
+Gemma,texto,La raíz cuadrada de 10000 es 100.,13.955323696136475,13.9536532,13.0751384,0.320756,0.554761,36,17,30.643826801090924,10,10,10,9,Analisis Matematico
+Gemma,binary,"The provided sequence of numbers appears to be a representation of a game state or move history. It is not directly related to natural language or a specific concept.
+
+**Possible interpretations:**
+
+* **Game board state:** It could be a representation of the board state of a game, where each number represents a piece or element on the board.
+* **Move history:** It could be a sequence of moves or actions taken during a game, where each number represents a specific move.
+* **Cryptographic data:** It could be a coded message or data structure, where the numbers represent various elements or operations.
+
+**Without additional context or information about the game or system from which this sequence originates, it is difficult to determine its exact meaning or purpose.**",20.68019676208496,20.6788881,13.0825219,1.972076,5.620619,363,152,27.04328473429706,0,0,0,9,Analisis Matematico
+Gemma,hexa,The provided text appears to be a sequence of characters and does not have any inherent meaning or significance. It is not possible for me to provide any interpretation or analysis of its content.,14.916945457458496,14.9154236,13.1045362,0.552254,1.254239,96,37,29.499959736541438,10,10,10,9,Analisis Matematico
+Gemma,json,La raíz cuadrada de 10000 es **100**.,13.913475275039673,13.9115813,13.0180815,0.341082,0.549062,44,17,30.961895013677868,10,10,10,9,Analisis Matematico
+Gemma,csv,La raíz cuadrada de 10000 es 100.,12.734926462173462,12.7331989,11.8124235,0.330277,0.587061,40,17,28.957808473054758,10,10,10,9,Analisis Matematico
+Gemma,xml,La raíz cuadrada de 10000 es **100**.,17.14697527885437,17.1454593,16.0728955,0.401804,0.666119,54,17,25.52096547313618,10,10,10,9,Analisis Matematico
+Gemma,html,La raíz cuadrada de 10000 es **100**.,13.471497297286987,13.4699866,12.4487342,0.407568,0.609124,64,17,27.908931514765467,10,10,10,9,Analisis Matematico
+Gemma,texto,"Para calcular el precio final del producto después del descuento del 25%, podemos seguir estos pasos:
+
+1. Calcular la cantidad del descuento.
+2. Restar el descuento del precio original.
+
+**Paso 1: Calcular la cantidad del descuento**
+
+Descuento = Precio original x Porcentaje de descuento
+Descuento = 80 € x 0,25 = 20 €
+
+**Paso 2: Restar el descuento del precio original**
+
+Precio final = Precio original - Descuento
+Precio final = 80 € - 20 € = **60 €**
+
+Por lo tanto, el precio final del producto después del descuento del 25% es **60 euros**.",18.75655746459961,18.7546929,12.5123062,0.365725,5.872818,45,151,25.71167708585555,10,10,10,10,Analisis Matematico
+Gemma,binary,"The provided text appears to be a sequence of binary digits, which can be interpreted as a series of instructions or data. However, without additional context or information about the purpose or application of this sequence, it is difficult to determine its exact meaning or functionality.
+
+**Possible interpretations:**
+
+* **Machine code:** The sequence could be a snippet of machine code, representing instructions for a computer or other digital device.
+* **Data transmission:** It might be a data packet containing information encoded in binary format.
+* **Cryptography:** The sequence could be a encrypted message, where the binary digits represent encoded characters or data.
+
+**Further analysis:**
+
+* **Frequency analysis:** Counting the occurrences of 0s and 1s could provide clues about the possible purpose of the sequence.
+* **Pattern recognition:** Identifying repeating patterns or sequences could suggest specific instructions or data structures.
+* **Context search:** Searching for similar sequences online or in relevant documentation could provide additional insights.
+
+**Note:** Without more information about the origin and intended use of the binary sequence, it is not possible to determine its exact meaning or functionality.",26.263668060302734,26.2614923,9.6754719,4.948033,9.660851,786,227,23.49689483876731,0,0,10,10,Analisis Matematico
+Gemma,hexa,The provided text appears to be a sequence of characters and does not have any inherent meaning or significance. It is not possible for me to provide any interpretation or analysis of its content.,14.102561712265015,14.1002714,9.6752113,0.968008,1.473665,191,37,25.10747015095018,10,10,10,10,Analisis Matematico
+Gemma,json,"Para calcular el precio final del producto después del descuento del 25%, podemos seguir estos pasos:
+
+1. Calcular la cantidad del descuento.
+2. Restar el descuento del precio original.
+
+**Paso 1: Calcular la cantidad del descuento**
+
+Descuento = Precio original x Porcentaje de descuento
+Descuento = 80 € x 0,25 = 20 €
+
+**Paso 2: Restar el descuento del precio original**
+
+Precio final = Precio original - Descuento
+Precio final = 80 € - 20 € = **60 €**
+
+Por lo tanto, el precio final del producto después del descuento del 25% es **60 euros**.",17.862544775009155,17.8606251,9.9785248,0.386432,5.866956,54,151,25.73736704348899,10,10,10,10,Analisis Matematico
+Gemma,csv,"Para calcular el precio final del producto después del descuento del 25%, podemos seguir estos pasos:
+
+1. Calcular la cantidad del descuento.
+2. Restar el descuento del precio original.
+
+**Paso 1: Calcular la cantidad del descuento**
+
+Descuento = Precio original x Porcentaje de descuento
+Descuento = 80 € x 0,25 = 20 €
+
+**Paso 2: Restar el descuento del precio original**
+
+Precio final = Precio original - Descuento
+Precio final = 80 € - 20 € = **60 €**
+
+Por lo tanto, el precio final del producto después del descuento del 25% es **60 euros**.",36.75366020202637,36.7519935,9.4342334,0.372887,5.914548,51,151,25.53026875426491,10,10,10,10,Analisis Matematico
+Gemma,xml,"Para calcular el precio final del producto después del descuento del 25%, podemos seguir estos pasos:
+
+1. Calcular la cantidad del descuento.
+2. Restar el descuento del precio original.
+
+**Paso 1: Calcular la cantidad del descuento**
+
+Descuento = Precio original x Porcentaje de descuento
+Descuento = 80 € x 0,25 = 20 €
+
+**Paso 2: Restar el descuento del precio original**
+
+Precio final = Precio original - Descuento
+Precio final = 80 € - 20 € = **60 €**
+
+Por lo tanto, el precio final del producto después del descuento del 25% es **60 euros**.",21.85653257369995,21.8549849,15.4932045,0.411626,5.945383,63,151,25.397859145491555,10,10,10,10,Analisis Matematico
+Gemma,html,"Para calcular el precio final del producto después del descuento del 25%, podemos seguir estos pasos:
+
+1. Calcular la cantidad del descuento.
+2. Restar el descuento del precio original.
+
+**Paso 1: Calcular la cantidad del descuento**
+
+Descuento = Precio original x Porcentaje de descuento
+Descuento = 80 € x 0,25 = 20 €
+
+**Paso 2: Restar el descuento del precio original**
+
+Precio final = Precio original - Descuento
+Precio final = 80 € - 20 € = **60 €**
+
+Por lo tanto, el precio final del producto después del descuento del 25% es **60 euros**.",17.34136438369751,17.339247,9.4406162,0.417525,5.861621,73,151,25.760792108531067,10,10,10,10,Analisis Matematico
+Gemma,texto,"Juan.
+
+El padre de Juan tiene 4 hijos: Lucas, Sandra, Ana y Juan.",12.344974517822266,12.3436875,9.4388476,0.360465,0.762294,44,21,27.548426197766215,10,10,10,11,Razonamiento logico
+Gemma,binary,"The provided sequence of binary digits appears to be a series of moves or actions taken during a game or simulation. Each move is represented by a sequence of 1s and 0s.
+
+**Here's an interpretation of the sequence:**
+
+**Turn 1:**
+- Player moves forward (01000101)
+- Rotates right (01101100)
+- ... (rest of the moves in the first turn)
+
+**Turn 2:**
+- Player moves forward (01001010)
+- ... (rest of the moves in the second turn)
+
+**Continue reading the sequence to understand the entire game or simulation session.**
+
+**Additional observations:**
+
+- The sequence is quite long and complex, making it difficult to identify any specific patterns or strategies.
+- The moves seem to involve a combination of movement, rotation, and possibly other actions.
+- The game or simulation appears to have a complex ruleset, as the sequence of moves is not straightforward.
+
+**Possible applications of this sequence:**
+
+- Studying game AI behavior
+- Reverse engineering game mechanics
+- Developing simulations or games with similar gameplay elements
+
+**Note:** Without more context or information about the game or simulation, it is difficult to determine the exact meaning or purpose of the sequence.",27.393979787826538,27.3922142,9.4375102,4.782773,11.514504,723,275,23.882921921777957,0,0,0,11,Razonamiento logico
+Gemma,hexa,The provided text appears to be a sequence of characters and does not have any inherent meaning or significance. It is not possible for me to provide any interpretation or analysis of its content.,13.282355308532715,13.2805182,9.4172129,0.900697,1.406493,177,37,26.30656533662094,0,0,0,11,Razonamiento logico
+Gemma,json,"El cuarto hijo es Juan.
+
+La frase dice que el padre de Juan tiene 4 hijos, luego Juan es uno de ellos.",13.025537967681885,13.0242969,9.6931354,0.395326,1.073271,53,28,26.08847159757414,10,10,10,11,Razonamiento logico
+Gemma,csv,"El cuarto hijo es Juan.
+
+El texto dice que el padre de Juan tiene 4 hijos, incluyendo a Juan.",33.04146385192871,33.0400703,9.4317446,0.365813,0.934628,50,25,26.74861014221701,10,10,10,11,Razonamiento logico
+Gemma,xml,"El cuarto hijo es Juan.
+
+El texto dice que el padre de Juan tiene 4 hijos, y luego nombra a tres de ellos. Por lo tanto, el cuarto hijo debe ser Juan.",20.491575241088867,20.4902874,17.1116757,0.403338,1.534348,62,41,26.72144780714675,10,10,10,11,Razonamiento logico
+Gemma,html,"La respuesta es Juan.
+
+El texto dice que el padre de Juan tiene 4 hijos: Lucas, Sandra, Ana y... El cuarto hijo es, por supuesto, Juan.",13.845517635345459,13.8434672,9.4528353,0.43522,1.395215,72,37,26.519210300921362,10,10,10,11,Razonamiento logico
+Gemma,texto,"No. La afirmación no es cierta. Si todas las rosas son flores, pero algunas flores son rojas, no significa que todas las rosas sean rojas.",12.88148307800293,12.8798558,9.4578076,0.373156,1.2161,45,32,26.31362552421676,10,10,10,12,Razonamiento logico
+Gemma,binary,"The provided text appears to be a sequence of binary digits, which can be interpreted as a series of commands or instructions. However, without additional context or information about the specific protocol or system this sequence is related to, it is difficult to determine their exact meaning or purpose.
+
+**Possible interpretations:**
+
+* **Network packet:** The binary sequence could represent a network packet, containing various fields such as source and destination addresses, protocol type, and data payload.
+* **Command sequence:** It could be a sequence of commands or instructions for a device or system, where each byte represents a specific action or setting.
+* **Data encoding:** The sequence might be encoded data, requiring additional key or context for interpretation.
+
+**Further analysis:**
+
+* **Length:** The sequence contains 256 binary digits, which is a multiple of 8, suggesting that it might be organized into bytes.
+* **Structure:** The sequence appears to be structured, with groups of 8 digits separated by spaces. This could indicate that each group represents a byte.
+* **Content:** The sequence includes various combinations of 0s and 1s, suggesting that it contains both logical values.
+
+**Recommendations:**
+
+* Provide additional context or information about the origin and purpose of the binary sequence.
+* Specify the protocol or system that the sequence is related to.
+* Share any relevant documentation or specifications that can aid in interpretation.
+
+With more information, it would be possible to determine the exact meaning and purpose of the binary sequence.",32.62557864189148,32.6238768,9.4173096,7.268756,13.298486,984,310,23.310924266115705,0,0,10,12,Razonamiento logico
+Gemma,hexa,The provided text is a sequence of characters and does not contain any meaningful information or instructions. It appears to be a random combination of letters and numbers.,13.869055032730103,13.8677452,9.4266209,1.331593,1.172945,235,31,26.42920171022512,0,0,10,12,Razonamiento logico
+Gemma,json,"No. La afirmación no es válida. Si todas las rosas son flores, pero algunas flores son rojas, no significa que todas las rosas sean rojas.",11.874646425247192,11.8729343,9.4433955,0.395328,1.219882,54,32,26.232045394554557,10,10,10,12,Razonamiento logico
+Gemma,csv,"La respuesta es **no**.
+
+Aunque todas las rosas sean flores, no todas las flores son rosas. Por lo tanto, no se puede concluir que todas las rosas sean rojas.",26.461518049240112,26.4590247,9.4207928,0.382285,1.432908,51,37,25.821615902765565,10,10,10,12,Razonamiento logico
+Gemma,xml,"No. La afirmación no es válida. Si todas las rosas son flores y algunas flores son rojas, no significa que todas las rosas sean rojas.",16.541266679763794,16.5396824,14.999413,0.398901,1.136385,63,31,27.279487145641664,10,10,10,12,Razonamiento logico
+Gemma,html,"No. Si todas las rosas son flores y algunas flores son rojas, no se puede afirmar que todas las rosas sean rojas.",14.405601501464844,14.4039693,12.858778,0.563294,0.977908,73,26,26.587368136879952,10,10,10,12,Razonamiento logico
+Gemma,texto,Un kilo de plumas y un kilo de plomo tienen la misma masa. La masa es una propiedad física que se mide en kilogramos y se refiere a la cantidad de materia en un objeto.,14.4672691822052,14.4653256,12.6931406,0.335194,1.433428,34,39,27.207505364761957,10,10,10,13,Razonamiento logico
+Gemma,binary,"The provided sequence of numbers appears to be a representation of a game state or turn in a strategy game. Each number represents an action or resource.
+
+**Here's an interpretation of the sequence:**
+
+**Turn Summary:**
+
+* **Action Phase:**
+    * 11000010: Move unit 10
+    * 10111111: Attack unit 11 with unit 10
+    * 01010001: Research technology 1
+    * 01110101: Build unit 12
+* **Resource Phase:**
+    * 11000011: Gain resource 13
+    * 10101001: Gain resource 14
+    * 00100000: Gain resource 15
+* **Action Phase:**
+    * 01110000: Move unit 16
+    * 01100101: Attack unit 17 with unit 16
+    * 01110011: Build unit 18
+* **Resource Phase:**
+    * 00100000: Gain resource 19
+* **Action Phase:**
+    * 01110101: Research technology 2
+    * 01101110: Move unit 20
+    * 00100000: Gain resource 21
+* ... (The sequence continues with similar patterns of actions and resource gains.)
+
+**Possible Game Mechanics:**
+
+* **Action points:** Each action has a cost in action points, which are replenished during the resource phase.
+* **Technology tree:** Researching technologies unlocks new abilities or units.
+* **Resource management:** Gathering resources is essential for building units, researching technologies, and purchasing upgrades.
+* **Unit combat:** Units can attack and defend against each other.
+
+**Conclusion:**
+
+The provided sequence of numbers suggests that it represents a turn in a strategy game with mechanics involving action points, resource management, technology research, and unit combat.",32.5274338722229,32.5249398,9.4590212,2.729743,19.476338,435,469,24.08050219707627,0,0,0,13,Razonamiento logico
+Gemma,hexa,The provided text appears to be a sequence of random characters and does not have any meaningful content or interpretation.,12.930440187454224,12.9289358,9.4470492,0.652879,0.809806,112,22,27.167000491475736,0,0,10,13,Razonamiento logico
+Gemma,json,"Un kilo de plumas y un kilo de plomo tienen la misma masa. La masa es una propiedad física que se mide en kilogramos y se refiere a la cantidad de materia en un objeto. Independientemente de la naturaleza o composición del objeto, un kilo es un kilo.",13.496525049209595,13.49509,9.6835768,0.262309,2.18142,42,56,25.671351688349787,10,10,10,13,Razonamiento logico
+Gemma,csv,Un kilo de plumas y un kilo de plomo tienen la misma masa. La masa es una propiedad física que se mide en kilogramos y se refiere a la cantidad de materia en un objeto.,24.649691104888916,24.64822,9.4270526,0.32061,1.462065,38,39,26.67460065044988,10,10,10,13,Razonamiento logico
+Gemma,xml,"Un kilo de plumas y un kilo de plomo tienen la misma masa. La masa es una propiedad física que se mide en kilogramos (kg) y se refiere a la cantidad de materia en un objeto. Independientemente de la naturaleza o composición del objeto, un kilo es un kilo.",17.198748111724854,17.1970143,14.5966711,0.385501,2.211166,52,59,26.682754709506206,10,10,10,13,Razonamiento logico
+Gemma,html,Un kilo de plumas y un kilo de plomo tienen la misma masa. La masa es una propiedad física que se mide en kilogramos y se refiere a la cantidad de materia en un objeto.,14.674356937408447,14.6726218,12.7603743,0.415204,1.493995,62,39,26.104505035157413,10,10,10,13,Razonamiento logico
+Gemma,texto,Todos los meses tienen 28 días como mínimo.,13.38538408279419,13.3838224,12.6024202,0.360864,0.417685,43,12,28.729784406909516,10,10,10,14,Razonamiento logico
+Gemma,binary,"The provided text appears to be a sequence of binary values, which can be interpreted as a series of instructions or data. However, without additional context or information about the specific protocol or system this data is related to, it is difficult to determine its exact meaning or purpose.
+
+**Possible interpretations:**
+
+* **Network packet:** The binary values could represent a network packet, containing various fields such as source and destination addresses, protocol type, and data payload.
+* **Machine code:** The sequence could be machine code instructions, which could be executed by a processor.
+* **Encrypted data:** The binary values might be encrypted data, requiring a key or decryption algorithm to be decoded.
+
+**Additional information needed:**
+
+* Context: Information about the source and destination of the data, and the protocol or system it is related to.
+* Key or decryption algorithm: If the data is encrypted, a key or decryption algorithm is needed to interpret its contents.
+
+**Possible actions:**
+
+* If you have the necessary context and key, you can attempt to decode the data and determine its meaning.
+* Consult with an expert in the relevant field (e.g., network engineering, cryptography) for assistance in interpreting the data.
+* Provide more information about the origin and purpose of the data to facilitate a better understanding.",27.4613995552063,27.4602134,12.4981055,3.82302,11.135302,633,267,23.9777960220567,0,0,0,14,Razonamiento logico
+Gemma,hexa,The provided text appears to be a sequence of characters and does not have any inherent meaning or significance. It is not possible for me to provide any interpretation or analysis of its content.,13.579208612442017,13.5775585,9.4271051,0.881953,1.388687,155,37,26.6438729533725,0,0,0,14,Razonamiento logico
+Gemma,json,Todos los meses tienen 28 días como mínimo.,11.568844556808472,11.567149,9.4561983,0.392811,0.423526,52,12,28.333561575912693,10,10,10,14,Razonamiento logico
+Gemma,csv,Todos los meses tienen 28 días como mínimo.,28.022229194641113,28.0207721,9.4190896,0.374283,0.426879,49,12,28.11101037999058,10,10,10,14,Razonamiento logico
+Gemma,xml,Todos los meses tienen 28 días como mínimo.,16.262354612350464,16.2604399,15.4430191,0.391507,0.422415,61,12,28.40808209935727,10,10,10,14,Razonamiento logico
+Gemma,html,"Todos los meses tienen 28 días.
+
+Algunos meses tienen 30 o 31 días, pero todos ellos tienen 28 días en el mes de febrero.",14.669076442718506,14.6672881,12.7459053,0.551217,1.366742,71,37,27.071678487966274,10,10,10,14,Razonamiento logico
+Gemma,texto,"Ana.
+
+Si Ana es más alta que Luis y Luis es más alto que Marta, entonces Ana es la persona más alta.",13.93478798866272,13.9333584,12.539793,0.371191,1.018755,44,27,26.502937408896152,10,10,10,15,Razonamiento logico
+Gemma,binary,"The provided text appears to be a sequence of binary values, which can be interpreted as a series of instructions or data. However, without additional context or information about the specific protocol or system this data is related to, it is difficult to determine its exact meaning or purpose.
+
+**Possible interpretations:**
+
+* **Machine code:** The binary values could represent machine code instructions, which could be executed by a processor or other computing device.
+* **Network packet:** The sequence could be a network packet, containing data and control information for communication between devices.
+* **Data storage:** The binary values might be part of a larger dataset or file.
+
+**Additional information needed:**
+
+* The protocol or system this data is related to.
+* The intended recipient or purpose of the data.
+* Any additional context or information that could help interpret the meaning.
+
+With more information, it would be possible to provide a more accurate and helpful interpretation of the binary values.",25.69012451171875,25.6886987,12.2721569,5.162645,8.250128,822,195,23.635996920290207,0,0,0,15,Razonamiento logico
+Gemma,hexa,The provided text appears to be a sequence of characters and does not have any inherent meaning or significance. It is not possible for me to provide any interpretation or analysis of this text.,13.131107807159424,13.1294061,9.4592428,0.941714,1.421014,196,37,26.037744877953347,0,0,10,15,Razonamiento logico
+Gemma,json,"Basándose en la información proporcionada, la persona más alta es Ana.
+
+Si Ana es más alta que Luis y Luis es más alto que Marta, entonces Ana debe ser la más alta de las tres.",13.000399589538574,12.9982846,9.439401,0.391405,1.659847,53,43,25.90600217971897,10,10,10,15,Razonamiento logico
+Gemma,csv,"Ana es más alta que Luis, y Luis es más alto que Marta. Por lo tanto, Ana es la persona más alta.",26.612219095230103,26.6103802,9.4228376,0.375052,1.027656,48,27,26.273383311146922,10,10,10,15,Razonamiento logico
+Gemma,xml,"Ana es la persona más alta.
+
+Si Ana es más alta que Luis y Luis es más alto que Marta, entonces Ana debe ser la más alta de las tres.",16.768309593200684,16.7668918,15.0489188,0.401792,1.312233,62,35,26.672092532347534,10,10,10,15,Razonamiento logico
+Gemma,html,"Ana es la persona más alta.
+
+Si Ana es más alta que Luis y Luis es más alto que Marta, entonces Ana debe ser la más alta de las tres.",14.713073968887329,14.7113567,12.7961609,0.565531,1.346315,72,35,25.996887801146094,10,10,10,15,Razonamiento logico
+Gemma,texto,"Carlos vive en Cadiz.
+
+La información del lugar de nacimiento de Carlos no es relevante para determinar donde vive ahora.",14.048924922943115,14.0477013,12.808935,0.355884,0.878559,42,24,27.317459612843304,10,10,10,16,Extraccion de informacion
+Gemma,binary,"The provided text appears to be a sequence of binary values, which represent digital signals or instructions. It is not immediately clear what the purpose or meaning of this sequence is.
+
+**Possible interpretations:**
+
+* **Machine code:** The sequence could be a snippet of machine code, which is the language understood by a computer's processor.
+* **Encrypted data:** The sequence could be encrypted data, which would require decryption to reveal the underlying information.
+* **Protocol or communication data:** The sequence could be a representation of a communication protocol or data packet.
+
+**Further analysis:**
+
+To better understand the sequence, additional context or information is needed. For example:
+
+* The origin of the sequence: where did it come from?
+* The intended use: what is the purpose of the sequence?
+* Any additional metadata: are there any comments or documentation that explains the sequence?
+
+**Possible tools for analysis:**
+
+* **Binary analysis tools:** Tools like HxD or Binary Viewer can be used to visualize and analyze binary data.
+* **Reverse engineering tools:** Tools like IDA Pro or WinHex can be used to reverse engineer machine code and identify its purpose.
+* **Cryptographic analysis:** If the sequence is suspected to be encrypted, cryptographic analysis techniques can be used to attempt to decipher it.
+
+**Conclusion:**
+
+The provided sequence of binary values is potentially meaningful, but its true interpretation depends on additional context and analysis. Further investigation is required to determine the purpose and meaning of the sequence.",30.234407424926758,30.2329824,12.9572894,4.373904,12.898676,750,306,23.723365095766418,0,0,0,16,Extraccion de informacion
+Gemma,hexa,The provided text appears to be a sequence of random characters and does not have any meaningful content or interpretation.,13.00348949432373,13.0021177,9.4349118,0.918758,0.855336,183,22,25.720886294976477,0,0,10,16,Extraccion de informacion
+Gemma,json,"Carlos vive en Cádiz.
+
+La información está contenida en la frase ""Actualmente vive en Cádiz"".",13.82207441329956,13.8204939,12.6824647,0.37962,0.75455,51,21,27.83115764362865,10,10,10,16,Extraccion de informacion
+Gemma,csv,Actualmente vive en Cadiz.,12.98872184753418,12.9870855,12.4111071,0.369056,0.203034,46,6,29.551700700375306,10,10,10,16,Extraccion de informacion
+Gemma,xml,El texto dice que Carlos vive en Cádiz actualmente.,15.344309091567993,15.3429045,14.5398731,0.403485,0.395513,60,11,27.811980895697488,10,10,10,16,Extraccion de informacion
+Gemma,html,"Carlos vive en Cadiz.
+
+La información está en la frase ""Actualmente vive en Cadiz"".",13.603810548782349,13.6019987,12.3426007,0.546875,0.709127,70,19,26.79350807401213,10,10,10,16,Extraccion de informacion
+Gemma,texto,"El texto proporcionado no contiene información sobre las horas de apertura del lunes, por lo que no puedo responder esta pregunta desde los datos proporcionados.",13.661312103271484,13.6597771,12.1622342,0.380046,1.11315,53,30,26.950545748551406,0,0,0,17,Extraccion de informacion
+Gemma,binary,"The provided text appears to be a sequence of binary values, which can be interpreted as a series of instructions or data. However, without additional context or information about the specific protocol or system this data is related to, it is difficult to determine its exact meaning or purpose.
+
+**Possible interpretations:**
+
+* **Machine code:** The binary values could represent machine code instructions, which could be executed by a processor or other computing device.
+* **Network packet:** The sequence could be a network packet, containing data and control information for network communication.
+* **Data stream:** The binary values might be a continuous stream of data, such as audio or video data.
+
+**Additional information needed:**
+
+* The protocol or system this data is related to.
+* The intended recipient or destination of the data.
+* Any additional context or information that could help interpret the meaning of the sequence.
+
+**Possible actions:**
+
+* If you have information about the protocol or system, you can try to decode the data using the appropriate tools or libraries.
+* Consult with an expert in the field of network engineering or computer science for assistance in interpreting the data.
+* Provide more context or details about the source or purpose of the data.",28.090802907943726,28.0890314,12.5631243,5.037599,10.483485,795,249,23.7516436566657,0,0,0,17,Extraccion de informacion
+Gemma,hexa,The provided text appears to be a sequence of characters and does not have any inherent meaning or significance. It is not possible for me to provide any interpretation or analysis of its content.,12.590417861938477,12.5891403,9.4289563,0.914259,1.390119,193,37,26.616426363498373,0,0,0,17,Extraccion de informacion
+Gemma,json,"El texto proporcionado no contiene información sobre la hora de apertura del museo en lunes, por lo que no puedo responder esta pregunta desde los datos proporcionados.",12.888478994369507,12.8861237,9.6809787,0.409035,1.260319,62,32,25.39039719309159,0,10,0,17,Extraccion de informacion
+Gemma,csv,"El texto proporcionado no contiene información sobre la hora de apertura del museo en lunes, por lo que no puedo responder esta pregunta desde los datos proporcionados.",14.164529800415039,14.1627354,12.5730716,0.390401,1.194368,57,32,26.792412388811485,0,10,0,17,Extraccion de informacion
+Gemma,xml,"El texto proporcionado no contiene información sobre la hora de apertura del museo en lunes, por lo que no puedo responder esta pregunta desde los datos proporcionados.",16.282994270324707,16.2812908,14.507788,0.552333,1.21717,71,32,26.290493521858078,0,10,0,17,Extraccion de informacion
+Gemma,html,"El texto proporcionado no contiene información sobre la hora de apertura del museo en lunes, por lo que no puedo responder esta pregunta desde los datos proporcionados.",14.480599164962769,14.4793122,12.7271595,0.561924,1.186425,81,32,26.97178498430158,0,0,0,17,Extraccion de informacion
+Gemma,texto,"El texto proporcionado no contiene información sobre el lugar de la conferencia, por lo que no puedo responder esta pregunta.",13.873558044433594,13.8723326,12.6089865,0.369987,0.890273,42,24,26.958022988454104,0,10,0,18,Extraccion de informacion
+Gemma,binary,"The provided text appears to be a sequence of binary values, which can be interpreted as a series of instructions or data. However, without additional context or information about the specific protocol or system this sequence is related to, it is difficult to determine its exact meaning or purpose.
+
+**Possible interpretations:**
+
+* **Machine code:** The sequence could be a sequence of machine code instructions, which could be executed by a processor or other digital device.
+* **Network packet:** The sequence could be a network packet, containing data and instructions for network communication.
+* **Data stream:** The sequence could be a data stream, representing information that is being transmitted or stored.
+
+**Further analysis:**
+
+* **Decoding:** Attempting to decode the sequence using relevant protocols or standards could provide more insights.
+* **Context:** Obtaining additional information about the source or purpose of the sequence could aid in understanding its meaning.
+* **Analysis tools:** Specialized tools and techniques for analyzing binary data can provide valuable information about its structure and functionality.
+
+**Note:** Without more context or information about the specific protocol or system this sequence is related to, it is not possible to determine its exact meaning or purpose.",28.478745937347412,28.4775018,12.619117,5.636663,10.217887,885,240,23.48822217352766,0,0,0,18,Extraccion de informacion
+Gemma,hexa,The provided text appears to be a sequence of characters and does not have any meaningful content or interpretation.,13.11358118057251,13.1118496,9.4330805,1.187582,0.7996,213,21,26.263131565782892,0,0,0,18,Extraccion de informacion
+Gemma,json,La conferencia tendrá lugar en Madrid.,11.067966938018799,11.0660213,9.4189113,0.379081,0.273816,51,8,29.21670026587197,10,10,10,18,Extraccion de informacion
+Gemma,csv,"El texto proporcionado no contiene información sobre el lugar donde tendrá lugar la conferencia, por lo que no puedo responder esta pregunta desde los datos proporcionados.",29.117035388946533,29.1155652,9.6674448,0.360447,1.14788,46,31,27.00630727950657,0,10,10,18,Extraccion de informacion
+Gemma,xml,"La conferencia tendrá lugar en Madrid.
+
+Se puede encontrar esta información en el contenido del documento.",16.275594234466553,16.2743806,15.1184501,0.409522,0.742239,60,20,26.945498687080576,10,10,10,18,Extraccion de informacion
+Gemma,html,La conferencia tendrá lugar en Madrid.,13.501815795898438,13.500111,12.6967342,0.534017,0.265574,70,8,30.12343075752898,10,10,10,18,Extraccion de informacion
+Gemma,texto,"El texto proporcionado no contiene información sobre cuando se ha terminado el proyecto, por lo que no puedo responder esta pregunta desde los datos proporcionados.",14.194649457931519,14.1926627,12.6762583,0.395819,1.115935,46,30,26.88328621290667,10,10,10,19,Extraccion de informacion
+Gemma,binary,"The provided text appears to be a sequence of binary values, which can be interpreted as digital signals or instructions. However, without additional context or information about the purpose or application of this sequence, it is difficult to determine its exact meaning or functionality.
+
+**Possible interpretations:**
+
+* **Computer program:** The binary values could represent a computer program or code, where each byte (8-bit sequence) represents a specific instruction or data element.
+* **Network packet:** The sequence could be a network packet, containing data and control information for communication over a network.
+* **Sensor data:** It could be a sequence of sensor readings or measurements, where each bit represents a specific measurement or parameter.
+
+**Further analysis:**
+
+* **Decoding the sequence:** If you have information about the encoding or protocol used for the binary values, you can decode them to reveal the underlying data.
+* **Contextual information:** Any additional context or documentation related to the source of the sequence can provide insights into its purpose and functionality.
+
+**Please provide more information about the origin and intended use of the binary sequence for a more accurate interpretation.**",28.940009832382202,28.9385435,12.4275432,6.789981,9.716734,930,228,23.46467444719594,0,0,0,19,Extraccion de informacion
+Gemma,hexa,The provided text appears to be a sequence of characters and does not have any meaningful content or interpretation.,13.247450113296509,13.2454083,9.6753496,1.216299,0.780369,223,21,26.910346259269655,0,10,0,19,Extraccion de informacion
+Gemma,json,"El texto proporcionado no contiene información sobre cuando se ha terminado el proyecto, por lo que no puedo responder esta pregunta desde los datos proporcionados.",11.201480150222778,11.1996878,9.7057,0.378041,1.112761,55,30,26.95996714478671,10,10,10,19,Extraccion de informacion
+Gemma,csv,"El texto proporcionado no contiene información sobre cuando se ha terminado el proyecto, por lo que no puedo responder esta pregunta desde los datos proporcionados.",10.982306480407715,10.9800558,9.4721154,0.374991,1.130044,50,30,26.547638853000414,10,10,10,19,Extraccion de informacion
+Gemma,xml,"El texto proporcionado no contiene información sobre cuando se ha terminado el proyecto, por lo que no puedo responder esta pregunta desde los datos proporcionados.",11.007545948028564,11.0063293,9.4658256,0.402481,1.133428,64,30,26.468377347303928,10,10,10,19,Extraccion de informacion
+Gemma,html,"El texto proporcionado no contiene información sobre cuando se ha terminado el proyecto, por lo que no puedo responder esta pregunta desde los datos proporcionados.",11.160071611404419,11.1586068,9.4520981,0.563136,1.138615,74,30,26.347799739156784,10,10,10,19,Extraccion de informacion
+Gemma,texto,"El cumpleaños de Carlos es el viernes, por lo que cumple años el viernes.",10.457119464874268,10.455525,9.4655245,0.366735,0.619578,43,17,27.438030401337688,0,0,0,20,Extraccion de informacion
+Gemma,binary,"The provided text appears to be a sequence of binary values, which can be interpreted as a series of instructions or data. However, without additional context or information about the specific protocol or system this sequence is related to, it is difficult to determine its exact meaning or purpose.
+
+**Possible interpretations:**
+
+* **Machine code:** The sequence could be a sequence of machine code instructions, which could be executed by a processor or other digital device.
+* **Network packet:** The sequence could be a network packet, containing data and instructions for network communication.
+* **Cryptographic data:** The sequence could be encrypted data, which requires a key or algorithm to be deciphered.
+
+**Additional information needed:**
+
+* The protocol or system this sequence is related to.
+* Any additional context or documentation that explains the meaning of the sequence.
+
+**Possible actions:**
+
+* If you have information about the protocol or system, you can try to interpret the sequence based on its specifications.
+* Consult with an expert in the field of cryptography or network engineering.
+* Use a tool or decoder designed for the specific protocol or system.
+
+**Note:** Without more information, it is not possible to determine the exact meaning or purpose of the sequence of binary values.",26.97072696685791,26.9690676,9.4406692,6.660759,10.863571,948,254,23.38089381475023,0,0,0,20,Extraccion de informacion
+Gemma,hexa,The provided text appears to be a sequence of characters and does not have any inherent meaning or significance. It is not possible for me to provide any interpretation or analysis of this text.,12.227454662322998,12.2259015,9.4658946,1.3117,1.445128,226,37,25.603268361003316,0,0,0,20,Extraccion de informacion
+Gemma,json,"El cumpleaños de Carlos es el miércoles.
+
+Se sabe que el cumpleaños se celebra el viernes, pero también se sabe que es el miércoles. Por lo tanto, el cumpleaños de Carlos es el miércoles.",11.382431268692017,11.3795484,9.4399805,0.384108,1.551228,52,41,26.430672989399365,10,10,10,20,Extraccion de informacion
+Gemma,csv,"El cumpleaños de Carlos se celebra el viernes, pero es el miércoles. Por lo tanto, Carlos cumple años el viernes.",10.738723993301392,10.7378028,9.4454069,0.367726,0.920312,49,25,27.16470066673041,10,10,10,20,Extraccion de informacion
+Gemma,xml,"El cumpleaños de Carlos se celebra el viernes, pero es el miércoles. Por lo tanto, Carlos cumple años el **miércoles**.",10.864369869232178,10.8625548,9.4579801,0.389203,1.010984,61,27,26.706654111242113,10,10,10,20,Extraccion de informacion
+Gemma,html,"El cumpleaños de Carlos es el viernes, pero es el miércoles. Por lo tanto, Carlos cumple años el **viernes**.",10.965728521347046,10.9642064,9.4591823,0.536951,0.964053,71,26,26.969471595441327,10,10,10,20,Extraccion de informacion

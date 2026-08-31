@@ -1,0 +1,225 @@
+﻿Modelo,Formato,Respuesta,Tiempo de espera de usuario,Tiempo en procesar la solicitud,Tiempo que tarda en cargar el modelo,Tiempo que tarda el modelo en procesar la entrada,Tiempo que el modelo genera tokens,Tokens de entrada,Tokens de salida,Tokens generados por segundo,Tokens de razonamiento,Correccion,Claridad,Completitud,ID,Categoria
+GPT-5,texto,La capital de España es Madrid.,4.330486399998335,,,,2.3761965000012424,14,85,35.77145240301278,64,10,10,10,1,Conocimiento general
+GPT-5,binary,La capital de España es Madrid.,7.278965299999982,,,,6.699915400000464,137,579,86.41900164888051,512,10,10,10,1,Conocimiento general
+GPT-5,hexa,La capital de España es Madrid.,4.50642660000085,,,,4.207031100002496,39,302,71.78458937463544,256,10,10,10,1,Conocimiento general
+GPT-5,json,La capital de España es Madrid.,1.8374738999991678,,,,1.508575899999414,21,114,75.56795783363918,64,10,10,10,1,Conocimiento general
+GPT-5,csv,La capital de España es Madrid.,2.0614361000007193,,,,1.731246999999712,16,132,76.24561948700673,64,10,10,10,1,Conocimiento general
+GPT-5,xml,La capital de España es Madrid.,3.465203300002031,,,,2.1393185000015364,32,149,69.64834829404457,128,10,10,10,1,Conocimiento general
+GPT-5,html,La capital de España es Madrid.,2.525069799998164,,,,2.1947748999991745,38,149,67.88851102682833,128,10,10,10,1,Conocimiento general
+GPT-5,texto,1492 (el 12 de octubre).,2.8303636999989976,,,,2.525732499998412,16,145,57.40908825463154,128,10,10,10,2,Conocimiento general
+GPT-5,binary,"En 1492; específicamente, el 12 de octubre de 1492.",6.943019800000911,,,,6.297567499997967,173,778,123.53976356748079,704,10,10,10,2,Conocimiento general
+GPT-5,hexa,"Si te refieres al “descubrimiento”, fue en 1492 (12 de octubre).  
+Si te refieres a cuándo las describió por escrito, sus cartas sobre el viaje se publicaron en 1493.",11.537131500001124,,,,11.19629939999868,51,677,60.46640732026868,576,10,10,10,2,Conocimiento general
+GPT-5,json,1492. Cristóbal Colón llegó a América el 12 de octubre de 1492.,31.044126500000857,,,,30.715535300001648,23,151,4.9160790630919555,64,10,10,10,2,Conocimiento general
+GPT-5,csv,"1492. Concretamente, el 12 de octubre de 1492 llegó a la isla de Guanahani (actual Bahamas) en su primer viaje.",6.240993200000958,,,,5.570361699999921,18,328,58.88307037584375,256,10,10,10,2,Conocimiento general
+GPT-5,xml,En 1492.,8.833094400000846,,,,8.485240900001372,34,255,30.052181547368768,192,10,10,10,2,Conocimiento general
+GPT-5,html,1492.,4.7865498999999545,,,,4.452013900001475,40,303,68.05908669779751,256,10,10,10,2,Conocimiento general
+GPT-5,texto,El oxígeno.,2.571129200001451,,,,2.2161287000017182,15,140,63.17322635634449,128,10,10,10,3,Conocimiento general
+GPT-5,binary,El oxígeno (número atómico 8).,6.877059100002953,,,,6.377025100002356,185,687,107.73048392106001,640,10,10,10,3,Conocimiento general
+GPT-5,hexa,"El oxígeno (símbolo O, número atómico 8).",4.45159699999931,,,,3.9296007999982976,58,390,99.24672246610113,320,10,10,10,3,Conocimiento general
+GPT-5,json,Oxígeno.,2.630854899998667,,,,2.026737799998955,23,100,49.3403734809957,64,10,10,10,3,Conocimiento general
+GPT-5,csv,El símbolo químico O corresponde al oxígeno (número atómico 8).,2.5842520000005607,,,,2.1329169000018737,17,127,59.54287295481996,64,10,10,10,3,Conocimiento general
+GPT-5,xml,El elemento químico con el símbolo O es el oxígeno.,2.8648501000025135,,,,2.40311720000318,34,165,68.66082103685233,128,10,10,10,3,Conocimiento general
+GPT-5,html,El símbolo O corresponde al elemento Oxígeno.,3.0059407999979157,,,,2.683616999998776,40,184,68.5641803581077,128,10,10,10,3,Conocimiento general
+GPT-5,texto,"Depende del sistema de color:
+- Luz (aditivo, RGB): magenta.
+- Pintura/pigmentos (sustractivo, RYB): violeta o morado.
+
+Con pigmentos reales, el tono puede variar y a veces salir un morado algo apagado según las tintas usadas.",4.136694200002239,,,,3.8032469999998284,17,284,74.67303596111765,192,10,10,10,4,Conocimiento general
+GPT-5,binary,"Morado o violeta. Si la mezcla es de luz (aditiva), el resultado es magenta.",8.88047159999769,,,,8.559017399998993,193,715,83.53762664392809,640,10,10,10,4,Conocimiento general
+GPT-5,hexa,"Morado (violeta/púrpura). En luz aditiva, rojo + azul da magenta.",7.456083399996714,,,,6.986667599998327,56,548,78.43510402586367,512,10,10,10,4,Conocimiento general
+GPT-5,json,"Depende del medio:
+- Pinturas/pigmentos (mezcla sustractiva): morado o violeta (púrpura).
+- Luz (mezcla aditiva, RGB): magenta.
+
+La proporción influye: más rojo → púrpura rojizo; más azul → violeta azulado.",8.16934559999936,,,,7.150455099999817,25,337,47.1298673003357,256,10,10,10,4,Conocimiento general
+GPT-5,csv,"Morado o violeta. Si se trata de luz (mezcla aditiva), el resultado es magenta; con pinturas (mezcla sustractiva), un morado/violeta cuyo tono depende de los pigmentos.",6.887516399998276,,,,6.576373899999453,19,272,41.36017874531474,192,10,10,10,4,Conocimiento general
+GPT-5,xml,"Morado (púrpura). Si mezclas luz en vez de pintura, el resultado es magenta.",3.4322173000000475,,,,3.085623200000555,36,259,83.93766290062683,192,10,10,10,4,Conocimiento general
+GPT-5,html,"Morado o púrpura. Si mezclas luz (modelo RGB), el resultado es magenta.",4.269125399998302,,,,3.936006500000076,42,220,55.894216638106606,192,10,10,10,4,Conocimiento general
+GPT-5,texto,La Luna.,1.1277122999999847,,,,0.80275679999977,17,67,83.4623886088778,0,10,10,10,5,Conocimiento general
+GPT-5,binary,La Luna. Es el único satélite natural de la Tierra.,21.82604419999916,,,,19.764839600000414,185,1018,51.5056039210143,960,10,10,10,5,Conocimiento general
+GPT-5,hexa,La Luna.,13.343145300001197,,,,13.050056900003256,49,615,47.126231304006545,576,10,10,10,5,Conocimiento general
+GPT-5,json,La Luna. Es el único satélite natural de la Tierra.,2.7148645000015676,,,,2.371652100002393,24,161,67.88516747453707,128,10,10,10,5,Conocimiento general
+GPT-5,csv,La Luna.,2.7853246000013314,,,,2.475583200000983,19,159,64.22728995734695,128,10,10,10,5,Conocimiento general
+GPT-5,xml,La Luna. Es el único satélite natural de la Tierra.,2.362161400000332,,,,2.0641963000016403,35,162,78.48090804148387,128,10,10,10,5,Conocimiento general
+GPT-5,html,La Luna.,2.5848425999975007,,,,2.171481199999107,41,184,84.73478840161069,128,10,10,10,5,Conocimiento general
+GPT-5,texto,25 x 44 = 1100.,1.7275507000013022,,,,1.4006724000028044,15,82,58.54331105534444,64,10,10,10,6,Analisis Matematico
+GPT-5,binary,1100,17.976294500000222,,,,17.581698300000426,89,856,48.68699174527294,832,10,10,10,6,Analisis Matematico
+GPT-5,hexa,25 × 44 = 1100.,5.784807899999578,,,,5.450395500000013,27,436,79.99419491668063,384,10,10,10,6,Analisis Matematico
+GPT-5,json,1100,5.782487399999809,,,,5.369246300000668,23,269,50.100141615773246,256,10,10,10,6,Analisis Matematico
+GPT-5,csv,1100,3.3374279999989085,,,,3.0046363999972527,17,188,62.569966868594115,128,10,10,10,6,Analisis Matematico
+GPT-5,xml,1100,3.9292442000005394,,,,3.6298344999995606,34,213,58.68036132226573,192,10,10,10,6,Analisis Matematico
+GPT-5,html,1100,3.268860299998778,,,,2.877982499998325,40,218,75.74750715132107,192,10,10,10,6,Analisis Matematico
+GPT-5,texto,"X = 1
+
+Pasos:
+- Restar 3 a ambos lados: 2X = 2
+- Dividir entre 2: X = 1
+- Comprobación: 2(1) + 3 = 5 ✔️",3.2106545999995433,,,,2.849408599999151,21,224,78.61280407452506,128,10,10,10,7,Analisis Matematico
+GPT-5,binary,"x = 1
+
+Pasos:
+- 2x + 3 = 5
+- 2x = 5 − 3 = 2
+- x = 2 / 2 = 1",6.150079299997742,,,,5.16532979999829,137,572,110.73833078387162,512,10,10,10,7,Analisis Matematico
+GPT-5,hexa,"Restando 3 a ambos lados: 2X = 2.  
+Dividiendo entre 2: X = 1.",4.825568199998088,,,,4.518200200000138,38,343,75.91518410361488,256,10,10,10,7,Analisis Matematico
+GPT-5,json,"X = 1
+
+Paso a paso:
+- 2X + 3 = 5
+- 2X = 5 − 3 = 2
+- X = 2 ÷ 2 = 1",3.3350914000002376,,,,3.002025500001764,29,258,85.94197484326779,192,10,10,10,7,Analisis Matematico
+GPT-5,csv,"x = 1
+
+Pasos:
+- Resta 3 a ambos lados: 2x + 3 − 3 = 5 − 3 ⇒ 2x = 2
+- Divide entre 2: x = 2/2 = 1",2.423804199999722,,,,2.0054777000004833,24,182,90.75144540373405,64,10,10,10,7,Analisis Matematico
+GPT-5,xml,"X = 1
+
+Procedimiento:
+- 2X + 3 = 5
+- 2X = 5 − 3 = 2
+- X = 2 ÷ 2 = 1",7.5329664000018965,,,,7.189435299998877,40,388,53.968077298096084,320,10,10,10,7,Analisis Matematico
+GPT-5,html,Restamos 3 a ambos lados: 2X = 2. Dividimos entre 2: X = 1.,5.5481825999995635,,,,5.209946999999374,46,288,55.27887327837204,192,10,10,10,7,Analisis Matematico
+GPT-5,texto,"El área de un cuadrado es lado².
+Para un lado de 5 m: 5² = 25 m².
+
+Respuesta: 25 metros cuadrados.",2.161849299998721,,,,1.844081899998855,20,159,86.22176704846933,64,10,10,10,8,Analisis Matematico
+GPT-5,binary,El área de un cuadrado es A = L^2. Con L = 5 m: A = (5 m)^2 = 25 m².,5.861805800002912,,,,5.456941500000539,189,649,118.93108987881506,576,10,10,10,8,Analisis Matematico
+GPT-5,hexa,"El área de un cuadrado es lado². Con lado = 5 m:
+A = 5² = 25 m².",8.405093599998509,,,,7.881330499996693,47,544,69.02387864589973,448,10,10,10,8,Analisis Matematico
+GPT-5,json,Área = lado² = 5² = 25 m².,2.59468040000138,,,,2.242565900000045,28,175,78.0356109044539,128,10,10,10,8,Analisis Matematico
+GPT-5,csv,"- Fórmula: Área = lado^2
+- Cálculo: (5 m)^2 = 25 m²
+- Resultado: 25 m²",3.7423276000008627,,,,3.4050970999996935,23,198,58.14812153228107,128,10,10,10,8,Analisis Matematico
+GPT-5,xml,El área es 25 m². (A = lado² = 5² = 25),4.5547870000009425,,,,4.241087700000207,39,248,58.4755651244816,192,10,10,10,8,Analisis Matematico
+GPT-5,html,Área = lado^2 = 5 m × 5 m = 25 m².,33.51877070000046,,,,33.19097740000143,45,198,5.965476629802154,128,10,10,10,8,Analisis Matematico
+GPT-5,texto,100,1.8692248000006657,,,,1.5775391999995918,18,105,66.55936029990707,64,10,10,10,9,Analisis Matematico
+GPT-5,binary,100. La raíz cuadrada principal de 10000 es 100 porque 100 × 100 = 10000.,8.669295300001977,,,,8.255785500001366,157,890,107.80318844280205,832,10,10,10,9,Analisis Matematico
+GPT-5,hexa,100. La raíz cuadrada principal de 10000 es 100. (Las soluciones de x² = 10000 son ±100.),8.898895999998786,,,,8.572937400000228,42,585,68.23798806695876,512,10,10,10,9,Analisis Matematico
+GPT-5,json,100,1.8748866999994789,,,,1.4989744999984396,25,111,74.05062594468122,64,10,10,10,9,Analisis Matematico
+GPT-5,csv,"100
+
+- Raíz cuadrada principal: 100 (porque 100 × 100 = 10000).
+- Si resuelves x^2 = 10000, las soluciones son x = ±100.",3.2361839000004693,,,,2.9058790000017325,20,290,99.79768600131908,192,10,10,10,9,Analisis Matematico
+GPT-5,xml,La raíz cuadrada de 10000 es 100.,3.91572989999986,,,,3.510439099998621,36,221,62.95508729950245,192,10,10,10,9,Analisis Matematico
+GPT-5,html,100,3.626075400003174,,,,3.2175482000020565,42,295,91.68471819623757,256,10,10,10,9,Analisis Matematico
+GPT-5,texto,"60 euros. 
+(El 25% de 80 es 20; 80 − 20 = 60. También: 80 × 0,75 = 60).",3.3689747999997053,,,,3.0621820999986085,27,146,47.67841860223347,64,10,10,10,10,Analisis Matematico
+GPT-5,binary,"60 euros. 
+Cálculo: 80 × (1 − 0,25) = 60.",12.360093999999663,,,,11.97593649999908,345,984,82.16476431718519,896,10,10,10,10,Analisis Matematico
+GPT-5,hexa,"60 €.
+
+Cálculo: 80 × (1 − 0,25) = 60.",3.7862137999982224,,,,3.4809854999984964,82,401,115.19726238450956,320,10,10,10,10,Analisis Matematico
+GPT-5,json,"60 euros.
+
+Cálculo: 80 × (1 − 0,25) = 80 × 0,75 = 60.",2.3928114000009373,,,,2.065492900001118,34,134,64.87555585396952,64,10,10,10,10,Analisis Matematico
+GPT-5,csv,"60 euros.
+
+Cálculo: 80 × (1 − 0,25) = 80 × 0,75 = 60.",2.5122382000008656,,,,2.128619700000854,31,163,76.57544464139582,64,10,10,10,10,Analisis Matematico
+GPT-5,xml,60 euros. (80 × 0.75 = 60),3.264195599997038,,,,2.7918921999989834,45,230,82.38140426771626,192,10,10,10,10,Analisis Matematico
+GPT-5,html,"60 euros.  
+Cálculo: 80 × (1 − 0.25) = 80 × 0.75 = 60.",3.7880188999988604,,,,3.0859179999970365,51,273,88.46638180284187,192,10,10,10,10,Analisis Matematico
+GPT-5,texto,"Juan. Porque dice “el padre de Juan…”, así que Juan es el cuarto hijo.",2.9596702000017103,,,,2.5214406000013696,29,173,68.61157070283791,128,10,10,10,11,Razonamiento logico
+GPT-5,binary,El cuarto hijo es Juan.,11.382730299999821,,,,11.020297600000049,317,981,89.01755974357677,960,10,10,10,11,Razonamiento logico
+GPT-5,hexa,Juan.,9.06258650000018,,,,8.675842399999965,82,636,73.30700244163063,576,10,10,10,11,Razonamiento logico
+GPT-5,json,"Juan. Porque dice “el padre de Juan…”, así que Juan es uno de los cuatro hijos.",2.2085962999990443,,,,1.865809499999159,36,159,85.21770309352142,128,10,10,10,11,Razonamiento logico
+GPT-5,csv,"El cuarto hijo es Juan. Porque la frase dice “El padre de Juan…”, así que Juan es uno de los cuatro hijos.",2.2249961999987136,,,,1.8868509999992966,33,206,109.17661224976258,128,10,10,10,11,Razonamiento logico
+GPT-5,xml,Juan. Porque “el padre de Juan” indica que Juan es uno de los cuatro hijos.,2.7761163000031956,,,,2.4192511000001105,47,151,62.416009648602866,64,10,10,10,11,Razonamiento logico
+GPT-5,html,"Juan. Porque el enunciado dice “el padre de Juan…”, así que Juan es el cuarto hijo.",2.280489900000248,,,,1.9525971000002755,53,193,98.84271568362607,128,10,10,10,11,Razonamiento logico
+GPT-5,texto,"No. De “todas las rosas son flores” y “algunas flores son rojas” no se sigue que “todas las rosas sean rojas”. Las flores rojas podrían ser flores que no son rosas.
+
+Contraejemplo: si las rosas son blancas y las tulipanes son rojas, entonces:
+- todas las rosas siguen siendo flores;
+- algunas flores (los tulipanes) son rojas;
+- pero no todas las rosas son rojas.",9.413634100001218,,,,9.069969399999536,31,605,66.70364290314265,448,10,10,10,12,Razonamiento logico
+GPT-5,binary,No. De “todas las rosas son flores” y “algunas flores son rojas” no se sigue que “todas las rosas sean rojas”. Podrían ser rojas otras flores distintas de las rosas. Contrajemplo: hay 10 tulipanes rojos y 90 rosas blancas; las premisas son verdaderas y la conclusión es falsa.,10.885390300001745,,,,10.438797599999816,433,469,44.928546176621744,384,10,10,10,12,Razonamiento logico
+GPT-5,hexa,"No. De “todas las rosas son flores” y “algunas flores son rojas” no se sigue que “todas las rosas sean rojas”.
+
+Contraejemplo: supón que existen rosas blancas (ninguna rosa es roja) y, además, hay tulipanes rojos. Entonces:
+- Todas las rosas son flores (cierto).
+- Algunas flores son rojas (los tulipanes rojos, cierto).
+- Pero no todas las rosas son rojas (falso).
+
+Las premisas no obligan a que ninguna rosa sea roja; solo afirman que existe al menos una flor roja, que podría no ser una rosa.",12.171265900000435,,,,11.845708699998795,104,1031,87.03573809814392,832,10,10,10,12,Razonamiento logico
+GPT-5,json,"No. De “todas las rosas son flores” y “algunas flores son rojas” no se sigue que las rosas sean rojas. Las flores rojas podrían no incluir a ninguna rosa (por ejemplo, que las rojas sean solo tulipanes y que todas las rosas sean blancas). Ni siquiera se puede concluir que alguna rosa sea roja. Para afirmar que todas las rosas son rojas haría falta, por ejemplo, que todas las flores fueran rojas.",8.882314900001802,,,,8.503721199998836,38,736,86.55034457151544,576,10,10,10,12,Razonamiento logico
+GPT-5,csv,"No.
+
+“Algunas flores son rojas” solo asegura que existe al menos una flor roja, que podría no ser una rosa. Es compatible con que ninguna rosa sea roja.
+
+Contraejemplo: hay 2 rosas blancas y 1 tulipán rojo. Se cumple:
+- Todas las rosas son flores.
+- Algunas flores (el tulipán) son rojas.
+Pero no todas las rosas son rojas.
+
+Para concluir que todas las rosas son rojas haría falta una premisa más fuerte, como “todas las flores son rojas”.",35.89681449999989,,,,35.602253400000336,35,1109,31.14971368638114,960,10,10,10,12,Razonamiento logico
+GPT-5,xml,"No. No se deduce lógicamente. Que todas las rosas sean flores y que algunas flores sean rojas no implica que las rosas lo sean. Las flores rojas podrían ser otras (p. ej., tulipanes). Contraejemplo: hay rosas blancas y algunos tulipanes rojos; se cumplen las premisas y es falso que todas las rosas sean rojas. Es la falacia del término medio no distribuido.",11.27053739999974,,,,10.710888099998556,49,575,53.68369033750596,448,10,10,10,12,Razonamiento logico
+GPT-5,html,"No. De “todas las rosas son flores” y “algunas flores son rojas” no se sigue que las rosas sean rojas. Es posible que las flores rojas sean, por ejemplo, tulipanes o claveles, y que las rosas no lo sean. Un contraejemplo: si solo los claveles son rojos y las rosas son blancas, ambas premisas se cumplen y la conclusión “todas las rosas son rojas” es falsa.",8.957866400000057,,,,8.530226099999709,55,598,70.1036517660441,448,10,10,10,12,Razonamiento logico
+GPT-5,texto,"Pesan lo mismo: un kilo es un kilo.  
+Si nos ponemos finos, en el aire las plumas desplazan más aire y su “peso aparente” es ligeramente menor, pero en una báscula bien calibrada ambos son 1 kg.",4.792386000000988,,,,4.393290700001671,19,309,70.33452168322994,192,10,10,10,13,Razonamiento logico
+GPT-5,binary,"Pesan lo mismo: un kilo es un kilo, sin importar el material.
+(En el aire, las plumas desplazan más aire y su peso aparente es apenas menor, pero idealmente pesan igual.)",15.355751700000837,,,,15.010289599998941,189,1268,84.47538547158274,1216,10,10,10,13,Razonamiento logico
+GPT-5,hexa,"Pesan lo mismo: un kilo es un kilo, sea de plumas o de plomo. (En el vacío exactamente igual; en aire las plumas desplazan más aire y podrían aparentar un pelín menos, pero a efectos prácticos, igual.)",12.007106799999747,,,,11.631569799999852,56,970,83.3937307413151,896,10,10,10,13,Razonamiento logico
+GPT-5,json,"Pesan lo mismo: un kilo es un kilo.
+
+Detalle curioso: en el aire, el kilo de plumas desplaza más aire y sufre mayor empuje, así que una balanza podría marcar muy ligeramente menos que el plomo; en vacío pesan exactamente igual.",6.103738400001021,,,,5.708411600000545,27,357,62.53928851240613,256,10,10,10,13,Razonamiento logico
+GPT-5,csv,"Pesan lo mismo: un kilo es un kilo.  
+La confusión viene porque las plumas ocupan mucho más volumen. Si afinamos mucho, en una balanza al aire las plumas “pesan” apenas menos por el empuje del aire (desplazan más aire), pero en vacío o corrigiendo por flotación, son iguales.",4.044896600000357,,,,3.644512000002578,21,259,71.06575585423145,128,10,10,10,13,Razonamiento logico
+GPT-5,xml,Pesan lo mismo: un kilo es un kilo. Solo cambia el volumen (las plumas ocupan mucho más espacio).,4.4995283000025665,,,,4.184512100000575,38,292,69.781134101622,256,10,10,10,13,Razonamiento logico
+GPT-5,html,"Pesan lo mismo: un kilo es un kilo. 
+(Con mucha precisión, en una balanza en aire el kilo de plumas marcaría apenas menos por el empuje del aire, pero su masa es igual.)",10.231714300000021,,,,9.079511899999488,44,486,53.52710645161745,384,10,10,10,13,Razonamiento logico
+GPT-5,texto,Doce. Todos los meses tienen al menos 28 días.,2.7342306000027747,,,,2.436552600000141,27,222,91.11233633946058,192,10,10,10,14,Razonamiento logico
+GPT-5,binary,Todos. Los 12 meses tienen al menos 28 días.,17.327356300000247,,,,16.599097000002075,277,964,58.07544832106707,896,10,10,10,14,Razonamiento logico
+GPT-5,hexa,12. Todos los meses tienen al menos 28 días.,16.478952199999185,,,,16.09578749999855,74,839,52.12543965308163,768,10,10,10,14,Razonamiento logico
+GPT-5,json,Todos. Los 12 meses tienen al menos 28 días (febrero 28 o 29; los demás también pasan por el día 28).,2.9382220999978017,,,,2.626604799999768,34,195,74.24032728487255,128,10,10,10,14,Razonamiento logico
+GPT-5,csv,"Todos: 12.  
+Explicación: cada mes tiene al menos 28 días; febrero suele tener exactamente 28 (29 en año bisiesto).",3.6727183000002697,,,,3.165032599998085,31,224,70.7733626503991,128,10,10,10,14,Razonamiento logico
+GPT-5,xml,Todos. Los 12 meses tienen al menos 28 días.,1.9110061999999743,,,,1.3738138999979128,45,99,72.06216213138505,64,10,10,10,14,Razonamiento logico
+GPT-5,html,Todos: los 12 meses. Todos tienen al menos 28 días.,4.027858400000696,,,,3.623359799999889,51,198,54.645415009573725,128,10,10,10,14,Razonamiento logico
+GPT-5,texto,Ana. Es la más alta porque Ana > Luis > Marta.,7.162963099999615,,,,6.587707700000465,28,198,30.05597834888546,128,10,10,10,15,Razonamiento logico
+GPT-5,binary,Ana.,8.328033400001004,,,,7.6554939999987255,361,983,128.40451576347178,960,10,10,10,15,Razonamiento logico
+GPT-5,hexa,Ana es la persona más alta.,3.4490525999972306,,,,2.6284080000004906,89,347,132.01907770785024,320,10,10,10,15,Razonamiento logico
+GPT-5,json,Ana. Porque Ana > Luis > Marta.,3.7389560000010533,,,,3.397276600000623,35,173,50.923142378212084,128,10,10,10,15,Razonamiento logico
+GPT-5,csv,Ana es la persona más alta.,2.8667644999986805,,,,2.536663300001237,30,131,51.64264409862204,64,10,10,10,15,Razonamiento logico
+GPT-5,xml,"Ana, porque es más alta que Luis y Luis es más alto que Marta.",3.3140407999999297,,,,2.9335360000004584,46,219,74.653933000981,192,10,10,10,15,Razonamiento logico
+GPT-5,html,Ana.,4.0849565000025905,,,,3.343651300001511,52,232,69.38522566629335,192,10,10,10,15,Razonamiento logico
+GPT-5,texto,En Cádiz.,4.328289699999004,,,,3.9518580000003567,25,169,42.76469448041522,128,10,10,10,16,Extraccion de informacion
+GPT-5,binary,En Cádiz.,8.798340500001359,,,,8.408869200000481,329,887,105.48386220586583,832,10,10,10,16,Extraccion de informacion
+GPT-5,hexa,En Cádiz.,8.31305280000015,,,,7.679955200001132,84,577,75.13064659542741,512,10,10,10,16,Extraccion de informacion
+GPT-5,json,En Cádiz.,3.5564878000004683,,,,3.2201254999999946,32,205,63.66211503247322,192,10,10,10,16,Extraccion de informacion
+GPT-5,csv,En Cádiz.,2.4056916999979876,,,,1.9362177999973937,27,165,85.21768573774195,128,10,10,10,16,Extraccion de informacion
+GPT-5,xml,En Cádiz.,1.9508855999993102,,,,1.5896821999995154,43,165,103.79433071594454,128,10,10,10,16,Extraccion de informacion
+GPT-5,html,En Cádiz.,5.206852499999513,,,,4.253804600000876,49,212,49.83773819793141,192,10,10,10,16,Extraccion de informacion
+GPT-5,texto,El lunes no abre; el museo permanece cerrado.,3.4593378999998095,,,,3.1676832000011927,33,199,62.82193875950887,128,10,10,10,17,Extraccion de informacion
+GPT-5,binary,No abre los lunes; el museo permanece cerrado ese día.,9.48034589999952,,,,9.125960499997746,349,955,104.64651912532779,896,10,10,10,17,Extraccion de informacion
+GPT-5,hexa,No abre los lunes; el museo está cerrado ese día. Abre de martes a domingo de 10:00 a 21:00.,13.475558599999204,,,,12.92161169999963,84,757,58.5840232298593,704,10,10,10,17,Extraccion de informacion
+GPT-5,json,El lunes no abre; el museo está cerrado.,3.1381280000023253,,,,2.247677300001669,40,151,67.18046224869018,128,10,10,10,17,Extraccion de informacion
+GPT-5,csv,No abre los lunes; el museo está cerrado ese día.,2.360466300000553,,,,1.9701437000003352,35,167,84.76539046363551,128,10,10,10,17,Extraccion de informacion
+GPT-5,xml,El lunes no abre; el museo está cerrado.,2.5985908999973617,,,,2.2540705999999773,51,166,73.64454334305309,128,10,10,10,17,Extraccion de informacion
+GPT-5,html,No abre los lunes; el museo está cerrado ese día.,4.617346299997735,,,,4.31637789999877,57,246,56.99222952653661,192,10,10,10,17,Extraccion de informacion
+GPT-5,texto,En Madrid.,1.7025523000011162,,,,1.1615517999998701,25,73,62.84696041968009,64,10,10,10,18,Extraccion de informacion
+GPT-5,binary,En Madrid.,21.306910800001788,,,,21.016334399999323,389,1245,59.23963600427104,1216,10,10,10,18,Extraccion de informacion
+GPT-5,hexa,En Madrid.,11.858867200000532,,,,11.536043399999471,98,1015,87.98510588128045,960,10,10,10,18,Extraccion de informacion
+GPT-5,json,En Madrid.,2.9711219999990135,,,,2.385883200000535,32,202,84.66466422159924,192,10,10,10,18,Extraccion de informacion
+GPT-5,csv,En Madrid.,4.176058100001683,,,,3.736371400002099,27,195,52.18967257909384,128,10,10,10,18,Extraccion de informacion
+GPT-5,xml,En Madrid.,3.2645179000028293,,,,2.9333225000009406,43,161,54.886566342414916,128,10,10,10,18,Extraccion de informacion
+GPT-5,html,En Madrid.,5.3109804000014265,,,,2.619916200001171,49,162,61.83403881388557,128,10,10,10,18,Extraccion de informacion
+GPT-5,texto,"No se ha terminado aún. Según indicas, el proyecto iniciado en 2024 sigue en curso, por lo que no hay una fecha de finalización efectiva.
+
+Si buscas la fecha prevista de cierre, comparte el cronograma, hitos o duración estimada y te ayudo a estimarla.",9.164871899996797,,,,8.75198189999719,29,678,77.46816752445724,576,10,10,10,19,Extraccion de informacion
+GPT-5,binary,"Aún no se ha terminado; el proyecto sigue en curso, así que no hay una fecha de finalización confirmada.",9.812523799999326,,,,9.507933499997307,409,1064,111.90654625427295,1024,10,10,10,19,Extraccion de informacion
+GPT-5,hexa,Aún no se ha terminado; sigue en curso y no hay fecha de finalización indicada.,7.693134400000417,,,,6.781659100000979,98,735,108.38055837986516,704,10,10,10,19,Extraccion de informacion
+GPT-5,json,"No se ha terminado. El proyecto sigue en curso, así que no hay una fecha de finalización efectiva aún. ¿Tienen una fecha estimada o hito de cierre previsto?",7.565880399997695,,,,6.974760099998093,36,380,54.48216061224871,320,10,10,10,19,Extraccion de informacion
+GPT-5,csv,Aún no se ha terminado; el proyecto sigue en curso y no tiene fecha de finalización indicada.,3.7301374999988184,,,,2.7356927000000724,31,272,99.42637197518303,192,10,10,10,19,Extraccion de informacion
+GPT-5,xml,"No se ha terminado; el proyecto sigue en curso, por lo que no hay una fecha de finalización.",4.904097100003128,,,,4.5244824000001245,47,358,79.12507295861957,320,10,10,10,19,Extraccion de informacion
+GPT-5,html,No se ha terminado aún; el proyecto sigue en curso y no tiene fecha de finalización indicada.,6.815157199998794,,,,6.508173099999112,53,385,59.15638599103219,320,10,10,10,19,Extraccion de informacion
+GPT-5,texto,"El miércoles. Lo celebra el viernes, pero su cumpleaños es el miércoles.",6.38677060000191,,,,5.945418499999505,27,498,83.76197571290254,448,10,10,10,20,Extraccion de informacion
+GPT-5,binary,"El miércoles. Aunque lo celebran el viernes, su cumpleaños cae en miércoles.",16.1346784999987,,,,15.689934699999867,417,1341,85.46880695430883,1280,10,10,10,20,Extraccion de informacion
+GPT-5,hexa,"El miércoles.  
+Lo celebra el viernes, pero su cumpleaños es el miércoles.",8.739397599998483,,,,8.429004300000088,112,748,88.74120517413809,704,10,10,10,20,Extraccion de informacion
+GPT-5,json,"El miércoles. La fiesta es el viernes, pero el cumpleaños cae en miércoles.",12.646335399997042,,,,12.298258099999657,34,1077,87.57337756637503,1024,10,10,10,20,Extraccion de informacion
+GPT-5,csv,"El miércoles.  
+Lo festeja el viernes, pero su cumpleaños real cae en miércoles.",7.589871500000299,,,,7.264685500002088,31,732,100.7614163062929,704,10,10,10,20,Extraccion de informacion
+GPT-5,xml,"El miércoles. Celebrará la fiesta el viernes, pero su cumpleaños es el miércoles.",5.816816900001868,,,,5.291650900002423,45,262,49.511958545844365,192,10,10,10,20,Extraccion de informacion
+GPT-5,html,"El miércoles. Lo celebra el viernes, pero su cumpleaños real es el miércoles.",4.725405100001808,,,,4.398873600002844,51,413,93.8876716075072,384,10,10,10,20,Extraccion de informacion
